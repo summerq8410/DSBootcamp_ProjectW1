@@ -1,33 +1,34 @@
-,studio,movie_count,metascore_mean,domestic_gross_mean,metascore_mean_bucket,domestic_gross_mean_bucket,movie_count_bucket
+,studio,movie_count,metascore_mean,domestic_gross_median,metascore_mean_bucket,domestic_gross_median_bucket,movie_count_bucket
+0,,31,51.0625,285106.0,M,L,B
 1,"""DIA"" Productions GmbH & Co. KG",1,31.0,34341945.0,L,L,S
 2,108 Media,1,56.0,190022.0,M,L,S
-3,20th Century Fox Home Entertainment,6,65.3333333333,28162784.8333,M,L,S
+3,20th Century Fox Home Entertainment,6,65.3333333333,19972738.5,M,L,S
 4,518 Media,1,72.0,861355.0,H,L,S
 5,8X Entertainment Inc.,1,26.0,1285167.0,L,L,S
-6,A24,14,65.7857142857,3327556.92857,M,L,M
+6,A24,14,65.7857142857,1601237.0,M,L,M
 7,ABKCO Films,1,76.0,293680.0,H,L,S
 8,AMC Theatres,1,55.0,57387.0,M,L,S
 9,ARC Entertainment (II),1,35.0,5672846.0,L,L,S
-10,ATO Pictures,4,58.25,1657592.5,M,L,S
-11,Abramorama,8,63.25,278576.25,M,L,S
-12,Adopt Films,4,70.75,523867.333333,H,L,S
+10,ATO Pictures,4,58.25,723111.5,M,L,S
+11,Abramorama,8,63.25,228415.0,M,L,S
+12,Adopt Films,4,70.75,356000.0,H,L,S
 13,Affirm Films,1,28.0,33456317.0,L,L,S
 14,After Dark Films,2,25.0,1646404.5,L,L,S
 15,Alliance Atlantis Home Video,1,87.0,78676425.0,H,L,S
 16,Alluvial Film Company,1,84.0,77556.0,H,L,S
-17,American Broadcasting Company (ABC),9,55.4444444444,89489381.0,M,L,S
+17,American Broadcasting Company (ABC),9,55.4444444444,63658910.0,M,L,S
 18,American Cinematheque,1,69.0,131296.0,M,L,S
 19,Amplify,1,58.0,102757.0,M,L,S
-20,Anchor Bay Entertainment,8,55.0,638317.25,M,L,S
-21,Anchor Bay Films,21,44.8333333333,494535.428571,M,L,M
+20,Anchor Bay Entertainment,8,55.0,111025.5,M,L,S
+21,Anchor Bay Films,21,44.8333333333,41587.0,M,L,M
 22,Anderson Digital,2,34.0,3434.0,L,L,S
-23,Apparition,4,68.75,4815540.0,M,L,S
+23,Apparition,4,68.75,4009155.0,M,L,S
 24,Area23a,1,63.0,150886.0,M,L,S
 25,Arenas Entertainment,1,65.0,1553826.0,M,L,S
 26,Arenas Group,1,49.0,1117864.0,M,L,S
 27,Ariztical Entertainment,2,33.5,96142.0,L,L,S
 28,Arthouse Films,1,78.0,187716.0,H,L,S
-29,Artisan Entertainment,6,68.3333333333,29709937.0,M,L,S
+29,Artisan Entertainment,6,68.3333333333,4868732.0,M,L,S
 30,Associated Film Distribution (AFD),1,69.0,65200000.0,M,L,S
 31,Avenue Pictures Productions,1,82.0,4729352.0,H,L,S
 32,Bandai Entertainment,2,58.0,568978.0,M,L,S
@@ -39,24 +40,24 @@
 38,Breaking Glass Pictures,3,61.6666666667,32536.0,M,L,S
 39,Buena Vista Home Video,1,38.0,47901582.0,L,L,S
 40,Buena Vista International,1,80.0,4711096.0,H,L,S
-41,Buena Vista Pictures,124,56.2580645161,85166309.879,M,L,B
-42,Buena Vista Pictures Distribution,6,48.1666666667,55494752.1667,M,L,S
+41,Buena Vista Pictures,124,56.2580645161,62921027.0,M,L,B
+42,Buena Vista Pictures Distribution,6,48.1666666667,37716677.0,M,L,S
 43,Buena Vista Television,1,87.0,100317794.0,H,L,S
-44,CBS Films,8,59.875,26037644.125,M,L,S
+44,CBS Films,8,59.875,21444810.0,M,L,S
 45,CBS/Fox,1,68.0,30036000.0,M,L,S
 46,CW Television Network,1,52.0,2956339.0,M,L,S
 47,Chicago Releasing,1,24.0,6881022.0,L,L,S
 48,Cinecom Pictures,1,89.0,5095592.0,H,L,S
-49,Cinedigm,3,69.6666666667,341324.666667,M,L,S
-50,Cinedigm Entertainment Group,5,52.4,83038.8,M,L,S
-51,Cinema Guild,10,80.9,147165.8,H,L,S
+49,Cinedigm,3,69.6666666667,9124.0,M,L,S
+50,Cinedigm Entertainment Group,5,52.4,71968.0,M,L,S
+51,Cinema Guild,10,80.9,87991.0,H,L,S
 52,Cinema Purgatorio,1,73.0,52476.0,H,L,S
 53,CinemaNX,1,42.0,,M,H,S
 54,City Lights Pictures,1,67.0,807117.0,M,L,S
-55,Clarius Entertainment,3,34.6666666667,8955095.0,L,L,S
-56,Cohen Media Group,18,63.2777777778,716685.555556,M,L,M
-57,Columbia Broadcasting System (CBS),3,48.5,84954155.3333,M,L,S
-58,Columbia Pictures,164,51.012195122,66495476.3497,M,L,B
+55,Clarius Entertainment,3,34.6666666667,8462027.0,L,L,S
+56,Cohen Media Group,18,63.2777777778,311837.0,M,L,M
+57,Columbia Broadcasting System (CBS),3,48.5,98467863.0,M,L,S
+58,Columbia Pictures,164,51.012195122,56569702.0,M,L,B
 59,Columbia TriStar Egmont Film Distributors,1,55.0,26420672.0,M,L,S
 60,Columbia TriStar Home Video,2,75.5,6500786.0,H,L,S
 61,Compass International Pictures,1,85.0,47000000.0,H,L,S
@@ -64,60 +65,60 @@
 63,Corinth Films,1,69.0,34096.0,M,L,S
 64,Cowboy Pictures,1,78.0,267907.0,H,L,S
 65,Crimson Films,1,,43712.0,H,L,S
-66,"Criterion Collection, The",4,82.5,14044908.75,H,L,S
+66,"Criterion Collection, The",4,82.5,15188523.0,H,L,S
 67,Dada Films,1,42.0,17669.0,M,L,S
 68,Darius Films,1,57.0,44462.0,M,L,S
 69,Dark Sky Films,1,66.0,33245.0,M,L,S
 70,De Laurentiis Entertainment Group (DEG),2,76.5,8586078.5,H,L,S
-71,Destination Films,4,40.25,4175060.5,M,L,S
-72,Dimension Films,29,49.0714285714,37999598.8571,M,L,B
+71,Destination Films,4,40.25,346838.0,M,L,S
+72,Dimension Films,29,49.0714285714,21584099.5,M,L,B
 73,Discovery Films,1,89.0,2962242.0,H,L,S
-74,Disneynature,3,66.6666666667,22058425.6667,M,L,S
+74,Disneynature,3,66.6666666667,19422319.0,M,L,S
 75,Doc & Film International,1,76.0,6123.0,H,L,S
 76,Docurama,1,81.0,40634.0,H,L,S
-77,Drafthouse Films,10,68.0,78982.4,M,L,S
-78,DreamWorks Distribution,44,58.2272727273,83821579.2727,M,L,B
-79,DreamWorks SKG,7,60.1428571429,69601405.7143,M,L,S
-80,E1 Entertainment,3,42.0,61572.6666667,M,L,S
+77,Drafthouse Films,10,68.0,45160.0,M,L,S
+78,DreamWorks Distribution,44,58.2272727273,59904596.0,M,L,B
+79,DreamWorks SKG,7,60.1428571429,71440011.0,M,L,S
+80,E1 Entertainment,3,42.0,26650.0,M,L,S
 81,Echo Bridge Home Entertainment,1,26.0,,L,H,S
 82,Embassy Pictures Corporation,1,77.0,104945305.0,H,L,S
-83,Entertainment One,11,56.2222222222,469693.727273,M,L,M
+83,Entertainment One,11,56.2222222222,92384.0,M,L,M
 84,Eros International,1,60.0,2511689.0,M,L,S
 85,Excel Entertainment,1,,125279.0,H,L,S
 86,Exclusive Releasing,1,37.0,318982.0,L,L,S
 87,FSI,1,34.0,70600.0,L,L,S
 88,Film Arcade,1,49.0,174496.0,M,L,S
-89,Film Movement,6,65.6,23713.8333333,M,L,S
-90,FilmDistrict,9,47.8888888889,23695272.0,M,L,S
-91,Fine Line Features,19,69.6315789474,6492420.78947,M,L,M
+89,Film Movement,6,65.6,10272.0,M,L,S
+90,FilmDistrict,9,47.8888888889,13109815.0,M,L,S
+91,Fine Line Features,19,69.6315789474,4184036.0,M,L,M
 92,First Independent Pictures,2,55.0,155356.5,M,L,S
-93,First Look International,8,59.25,1244063.14286,M,L,S
-94,First Run Features,9,68.4444444444,143816.0,M,L,S
+93,First Look International,8,59.25,517809.0,M,L,S
+94,First Run Features,9,68.4444444444,16086.0,M,L,S
 95,Fluid Entertainment,1,38.0,13276.0,L,L,S
-96,Focus Features,56,68.4821428571,20710785.4821,M,L,B
-97,Focus World,3,66.0,174729.666667,M,L,S
-98,Fox 2000 Pictures,14,49.0,66974920.1429,M,L,M
-99,Fox Atomic,4,44.25,15312824.75,M,L,S
+96,Focus Features,56,68.4821428571,12928284.0,M,L,B
+97,Focus World,3,66.0,166243.0,M,L,S
+98,Fox 2000 Pictures,14,49.0,57557347.0,M,L,M
+99,Fox Atomic,4,44.25,12792310.5,M,L,S
 100,Fox Family Films,1,48.0,22753426.0,M,L,S
 101,Fox International Productions (FIP),1,46.0,,M,H,S
 102,Fox Network,2,75.5,61914024.0,H,L,S
-103,Fox Searchlight Pictures,80,66.75,18975115.2875,M,L,B
+103,Fox Searchlight Pictures,80,66.75,10489684.0,M,L,B
 104,Fox Video,2,53.0,58318477.5,M,L,S
 105,Fox-Walden,2,56.5,27939884.5,M,L,S
 106,Freestyle Digital Media,2,1.0,131637.5,L,L,S
-107,Freestyle Releasing,25,40.76,3901510.56,M,L,M
+107,Freestyle Releasing,25,40.76,281350.0,M,L,M
 108,G2 Films,1,53.0,14401563.0,M,L,S
 109,GAGA,1,63.0,16970581.0,M,L,S
 110,GKIDS,1,71.0,1002895.0,H,L,S
 111,Galaxy International Releasing,1,43.0,17768757.0,M,L,S
 112,"Geffen Company, The",1,90.0,10609321.0,H,L,S
-113,Gkids,6,67.6666666667,22249857.5,M,L,S
+113,Gkids,6,67.6666666667,493374.0,M,L,S
 114,Goldwyn Films,1,69.0,1713459.0,M,L,S
 115,Good Machine,2,74.5,1414034.0,H,L,S
 116,GoodTimes Home Video,1,73.0,8362969.0,H,L,S
 117,Goodbye Cruel Releasing,1,78.0,77070.0,H,L,S
-118,Gramercy Pictures (I),13,65.0769230769,17594577.6154,M,L,M
-119,Gravitas Ventures,5,44.0,197446.0,M,L,S
+118,Gramercy Pictures (I),13,65.0769230769,7993039.0,M,L,M
+119,Gravitas Ventures,5,44.0,31664.0,M,L,S
 120,HBO Documentary,1,89.0,130146.0,H,L,S
 121,HBO Documentary Films,1,70.0,18164.0,M,L,S
 122,HBO Films,2,80.0,3638972.5,H,L,S
@@ -125,36 +126,36 @@
 124,Herrick Entertainment,1,52.0,1361512.0,M,L,S
 125,High Top Releasing,1,40.0,125106.0,L,L,S
 126,Home Box Office (HBO),1,68.0,3644.0,M,L,S
-127,IFC Films,118,62.8813559322,2799313.51695,M,L,B
+127,IFC Films,118,62.8813559322,143442.0,M,L,B
 128,IFC First Take,2,82.0,922844.5,H,L,S
-129,IFC Midnight,5,51.8,13308.8,M,L,S
+129,IFC Midnight,5,51.8,8447.0,M,L,S
 130,Icarus Films,1,85.0,156928.0,H,L,S
-131,Image Entertainment,7,39.5714285714,37567.2,L,L,S
+131,Image Entertainment,7,39.5714285714,10969.0,L,L,S
 132,Imagenation Abu Dhabi FZ,1,73.0,627436.0,H,L,S
 133,Independent,1,63.0,137815.0,M,L,S
 134,Indican Pictures,1,44.0,30471.0,M,L,S
 135,Indomina Group,1,84.0,641100.0,H,L,S
 136,IndustryWorks Pictures,1,42.0,1037071.0,M,L,S
-137,International Film Circuit,5,67.2,169212.4,M,L,S
+137,International Film Circuit,5,67.2,132782.0,M,L,S
 138,Janus Films,2,84.0,1732054.5,H,L,S
 139,Ketchup Entertainment,2,34.5,151914.0,L,L,S
-140,Kino International,6,76.8333333333,140308.166667,H,L,S
-141,Kino Lorber,6,68.1666666667,48588.0,M,L,S
-142,Koch Lorber Films,4,77.0,241226.75,H,L,S
-143,LD Entertainment,4,52.0,3422240.0,M,L,S
+140,Kino International,6,76.8333333333,116403.0,H,L,S
+141,Kino Lorber,6,68.1666666667,30187.5,M,L,S
+142,Koch Lorber Films,4,77.0,233153.5,H,L,S
+143,LD Entertainment,4,52.0,1987762.0,M,L,S
 144,Leisure Time Features,1,65.0,58132.0,M,L,S
-145,Lions Gate Films,39,49.9230769231,15117528.6923,M,L,B
-146,Lions Gate Films Home Entertainment,6,66.1666666667,4143387.83333,M,L,S
-147,Lionsgate,58,48.3157894737,28001473.0351,M,L,B
+145,Lions Gate Films,39,49.9230769231,6318709.0,M,L,B
+146,Lions Gate Films Home Entertainment,6,66.1666666667,4740007.5,M,L,S
+147,Lionsgate,58,48.3157894737,18494006.0,M,L,B
 148,Live Film & Mediaworks Inc.,1,72.0,3221152.0,H,L,S
 149,Loki Films,1,68.0,390024.0,M,L,S
-150,Lorber Films,6,75.3333333333,138992.333333,H,L,S
+150,Lorber Films,6,75.3333333333,46191.0,H,L,S
 151,Lot 47 Films,2,63.5,252942.5,M,L,S
 152,Luminous Velocity Releasing,1,52.0,151114.0,M,L,S
 153,MCA/Universal Home Video,1,71.0,13071518.0,H,L,S
-154,MCA/Universal Pictures,4,58.5,19488035.0,M,L,S
-155,MGM Distribution,3,38.6666666667,35234713.6667,L,L,S
-156,MGM Home Entertainment,3,51.6666666667,35819863.0,M,L,S
+154,MCA/Universal Pictures,4,58.5,14729593.5,M,L,S
+155,MGM Distribution,3,38.6666666667,46437717.0,L,L,S
+156,MGM Home Entertainment,3,51.6666666667,37667746.0,M,L,S
 157,MGM/UA Distribution Company,2,72.5,117659573.5,H,L,S
 158,MGM/UA Entertainment Company,1,65.0,10278575.0,M,L,S
 159,MGM/UA Home Entertainment,1,16.0,20350754.0,L,L,S
@@ -162,171 +163,171 @@
 161,MPI Media Group,1,37.0,13514.0,L,L,S
 162,MTV Films,2,77.0,2666772.0,H,L,S
 163,Magic Light Pictures,1,76.0,350524.0,H,L,S
-164,Magnet Releasing,47,55.4888888889,208650.565217,M,L,B
+164,Magnet Releasing,47,55.4888888889,22642.0,M,L,B
 165,Magnolia Films,1,80.0,3030848.0,H,L,S
-166,Magnolia Pictures,75,64.7042253521,705658.813333,M,L,B
+166,Magnolia Pictures,75,64.7042253521,205139.0,M,L,B
 167,Metro Goldwyn Distributing Company,2,46.5,9542231.0,M,L,S
-168,Metro-Goldwyn-Mayer (MGM),39,51.8974358974,34075929.1026,M,L,B
-169,Metro-Goldwyn-Mayer Distributing Corporation (MGM),9,48.1111111111,53781708.6667,M,L,S
+168,Metro-Goldwyn-Mayer (MGM),39,51.8974358974,25594957.0,M,L,B
+169,Metro-Goldwyn-Mayer Distributing Corporation (MGM),9,48.1111111111,37182494.0,M,L,S
 170,Midnight Movies,1,,271000.0,H,L,S
 171,Mill Creek Entertainment,1,15.0,10249719.0,L,L,S
-172,Millennium Entertainment,15,50.2142857143,1086416.2,M,L,M
+172,Millennium Entertainment,15,50.2142857143,81071.0,M,L,M
 173,Millennium Films,2,42.5,114223.0,M,L,S
-174,Miramax Films,84,65.0119047619,28362535.2619,M,L,B
+174,Miramax Films,84,65.0119047619,13020733.5,M,L,B
 175,Miramax Home Entertainment,1,70.0,4750660.0,M,L,S
-176,Monterey Media,4,47.75,41538.0,M,L,S
+176,Monterey Media,4,47.75,18054.0,M,L,S
 177,Morgan Creek International,1,45.0,11892415.0,M,L,S
 178,Moving Pictures Film and Television,1,49.0,102541.0,M,L,S
-179,Music Box Films,21,71.5714285714,1892160.7619,H,L,M
+179,Music Box Films,21,71.5714285714,514237.0,H,L,M
 180,My Network TV,1,46.0,48022900.0,M,L,S
 181,National Broadcasting Company (NBC),1,64.0,101413188.0,M,L,S
 182,National General Pictures,1,63.0,31559552.0,M,L,S
 183,National Geographic Channel,1,75.0,1328467.0,H,L,S
-184,National Geographic Entertainment,3,69.3333333333,670189.0,M,L,S
+184,National Geographic Entertainment,3,69.3333333333,635325.0,M,L,S
 185,National Geographic Films,2,68.5,38845005.5,M,L,S
 186,NeoClassics Films,1,64.0,707945.0,M,L,S
 187,New Films Cinema,1,,,H,H,S
 188,New Films International,1,,138788.0,H,L,S
-189,New Line Cinema,81,48.2,50818159.8025,M,L,B
+189,New Line Cinema,81,48.2,39464775.0,M,L,B
 190,New Line Home Video,1,,17303424.0,H,L,S
 191,New World Pictures,1,73.0,1108462.0,H,L,S
-192,New Yorker Films,8,78.375,203385.125,H,L,S
-193,Newmarket Films,12,66.6666666667,38653002.4167,M,L,M
-194,October Films,3,57.6666666667,2079239.66667,M,L,S
+192,New Yorker Films,8,78.375,111189.0,H,L,S
+193,Newmarket Films,12,66.6666666667,2139045.0,M,L,M
+194,October Films,3,57.6666666667,1960216.0,M,L,S
 195,Olive Films,1,68.0,10462.0,M,L,S
 196,One Earth Productions,1,56.0,45000.0,M,L,S
-197,Open Road Films,9,48.3333333333,24046470.7778,M,L,S
-198,Open Road Films (II),5,49.8,24250988.6,M,L,S
-199,Orion Pictures Corporation,15,64.8,44429412.6,M,L,M
-200,Oscilloscope Laboratories,4,67.25,502220.25,M,L,S
-201,Oscilloscope Pictures,12,69.9166666667,513151.333333,M,L,M
-202,Overture Films,14,50.8571428571,22586083.5,M,L,M
+197,Open Road Films,9,48.3333333333,20158898.0,M,L,S
+198,Open Road Films (II),5,49.8,13749300.0,M,L,S
+199,Orion Pictures Corporation,15,64.8,38371200.0,M,L,M
+200,Oscilloscope Laboratories,4,67.25,115010.0,M,L,S
+201,Oscilloscope Pictures,12,69.9166666667,203645.0,M,L,M
+202,Overture Films,14,50.8571428571,19805619.5,M,L,M
 203,Page 124 Productions,1,69.0,809590.0,M,L,S
-204,Paladin (II),3,49.0,40792.3333333,M,L,S
-205,Palisades Pictures,3,57.6666666667,363315.333333,M,L,S
+204,Paladin (II),3,49.0,36280.0,M,L,S
+205,Palisades Pictures,3,57.6666666667,209659.0,M,L,S
 206,Palisades Tartan,2,84.5,68608.0,H,L,S
-207,Palm Pictures,3,69.0,122930.333333,M,L,S
-208,Pantelion Films,6,51.75,10325229.1667,M,L,S
-209,Paramount Classics,13,55.8461538462,1246712.07692,M,L,M
+207,Palm Pictures,3,69.0,121390.0,M,L,S
+208,Pantelion Films,6,51.75,4769662.5,M,L,S
+209,Paramount Classics,13,55.8461538462,603951.0,M,L,M
 210,Paramount Famous Productions,1,43.0,106524.0,M,L,S
 211,Paramount Home Entertainment,2,51.0,14332622.0,M,L,S
-212,Paramount Home Video,3,32.6666666667,20356325.0,L,L,S
-213,Paramount Pictures,175,57.3563218391,85484478.3829,M,L,B
-214,Paramount Vantage,15,67.7857142857,11431068.7333,M,L,M
+212,Paramount Home Video,3,32.6666666667,19751736.0,L,L,S
+213,Paramount Pictures,175,57.3563218391,70136369.0,M,L,B
+214,Paramount Vantage,15,67.7857142857,6417135.0,M,L,M
 215,Participant Media,1,65.0,454121.0,M,L,S
 216,Pathfinder Pictures,1,58.0,58202.0,M,L,S
 217,Peace Arch Entertainment Group,1,64.0,470691.0,M,L,S
 218,Peninsula Films,1,63.0,144008.0,M,L,S
 219,Phase 4 Films,1,46.0,8464.0,M,L,S
 220,Picturehouse,1,98.0,37634615.0,H,L,S
-221,Picturehouse Entertainment,7,66.0,3720119.14286,M,L,S
+221,Picturehouse Entertainment,7,66.0,1415082.0,M,L,S
 222,Pierre Grise Distribution,1,92.0,25461.0,H,L,S
 223,Polychrome Pictures,1,66.0,837878.0,M,L,S
-224,Polygram Filmed Entertainment,3,45.3333333333,37868329.0,M,L,S
-225,Producers Distribution Agency (PDA),3,74.0,1691880.66667,H,L,S
+224,Polygram Filmed Entertainment,3,45.3333333333,48323648.0,M,L,S
+225,Producers Distribution Agency (PDA),3,74.0,1612430.0,H,L,S
 226,Provident Films,2,25.0,6645363.5,L,L,S
 227,Quark Films,1,55.0,,M,H,S
 228,R.S. Entertainment,1,47.0,5791328.0,M,L,S
-229,RADiUS-TWC,15,61.5333333333,2052056.58333,M,L,M
+229,RADiUS-TWC,15,61.5333333333,646317.5,M,L,M
 230,RAM Releasing,1,66.0,2340.0,M,L,S
 231,Red Flag Releasing (RFR),2,94.0,,H,H,S
 232,Red Square Productions,1,90.0,242707.0,H,L,S
-233,Regent Releasing,3,47.0,556190.666667,M,L,S
-234,Relativity Media,18,41.0,23868054.1667,M,L,M
+233,Regent Releasing,3,47.0,142666.0,M,L,S
+234,Relativity Media,18,41.0,24652466.0,M,L,M
 235,Reliance Big Pictures,2,49.0,2658518.5,M,L,S
-236,Reliance Entertainment,4,,558921.666667,H,L,S
-237,Revolution Studios,3,37.3333333333,64627601.3333,L,L,S
-238,Roadside Attractions,27,63.4814814815,3642941.66667,M,L,B
-239,Rocky Mountain Pictures,3,19.5,12395639.6667,L,L,S
-240,Rogue Pictures,10,52.3,21961980.5,M,L,S
+236,Reliance Entertainment,4,,646035.0,H,L,S
+237,Revolution Studios,3,37.3333333333,58645052.0,L,L,S
+238,Roadside Attractions,27,63.4814814815,2037459.0,M,L,B
+239,Rocky Mountain Pictures,3,19.5,3329674.0,L,L,S
+240,Rogue Pictures,10,52.3,18562313.5,M,L,S
 241,Romar Entertainment,1,18.0,2405420.0,L,L,S
 242,SModcast Pictures,1,50.0,1104682.0,M,L,S
 243,Sag Harbor-Basement Pictures,1,49.0,20389.0,M,L,S
-244,"Samuel Goldwyn Company, The",10,63.1111111111,6773671.22222,M,L,S
-245,Samuel Goldwyn Films,21,55.8,1485545.55,M,L,M
+244,"Samuel Goldwyn Company, The",10,63.1111111111,5017971.0,M,L,S
+245,Samuel Goldwyn Films,21,55.8,1043456.5,M,L,M
 246,Savoy Pictures,1,80.0,17287898.0,H,L,S
 247,Scholastic Productions,1,49.0,2922354.0,M,L,S
-248,Screen Gems,26,40.3846153846,39743289.4231,M,L,B
-249,Screen Media Films,5,56.8,94387.0,M,L,S
+248,Screen Gems,26,40.3846153846,35477658.5,M,L,B
+249,Screen Media Films,5,56.8,43073.0,M,L,S
 250,SenArt Films,2,61.5,371291.5,M,L,S
 251,Seventh Art Releasing,1,88.0,853.0,H,L,S
 252,Shadow Distribution,1,63.0,98548.0,M,L,S
 253,Shout! Factory,1,52.0,,M,H,S
 254,Showtime Networks,1,62.0,62852.0,M,L,S
 255,Silver Nitrate,1,65.0,43805.0,M,L,S
-256,Sony Pictures Classics,119,73.3865546218,5317333.03361,H,L,B
-257,Sony Pictures Entertainment (SPE),21,52.0,64750725.8095,M,L,M
+256,Sony Pictures Classics,119,73.3865546218,2283849.0,H,L,B
+257,Sony Pictures Entertainment (SPE),21,52.0,38432823.0,M,L,M
 258,Sony Pictures Entertainment (SPE) Worldwide Acquisitions Group,1,28.0,257412.0,L,L,S
 259,Sony Pictures Home Entertainment,2,89.0,30642690.0,H,L,S
-260,Sony Pictures Releasing,9,46.1111111111,46357592.7778,M,L,S
+260,Sony Pictures Releasing,9,46.1111111111,32238923.0,M,L,S
 261,Stage 6 Films,1,69.0,68372.0,M,L,S
 262,Starz Digital Media,2,62.0,3861.0,M,L,S
-263,Strand Releasing,26,67.7692307692,103281.961538,M,L,B
+263,Strand Releasing,26,67.7692307692,25660.5,M,L,B
 264,Studio Canal,1,45.0,209695.0,M,L,S
 265,Submarine Entertainment,1,86.0,6945.0,H,L,S
-266,Summit Distribution,4,47.25,15190059.5,M,L,S
-267,Summit Entertainment,30,50.6333333333,44376649.4667,M,L,B
+266,Summit Distribution,4,47.25,13753415.5,M,L,S
+267,Summit Entertainment,30,50.6333333333,22331621.0,M,L,B
 268,Sundance Film Series,1,75.0,84299.0,H,L,S
-269,Sundance Selects,21,74.9523809524,784015.47619,H,L,M
+269,Sundance Selects,21,74.9523809524,373605.0,H,L,M
 270,Sycamore Entertainment,1,55.0,83566.0,M,L,S
-271,TLA Releasing,4,51.75,353040.0,M,L,S
+271,TLA Releasing,4,51.75,349027.0,M,L,S
 272,TWC-Dimension,1,77.0,75357139.0,H,L,S
-273,Tartan,6,67.0,195346.0,M,L,S
+273,Tartan,6,67.0,104328.0,M,L,S
 274,Tartan Films,1,65.0,72541.0,M,L,S
 275,Telepathic Studios,1,58.0,70066.0,M,L,S
 276,Televisa Cine,1,30.0,4179890.0,L,L,S
 277,The Film Arcade,1,69.0,135228.0,M,L,S
 278,The Film Company,1,79.0,263200.0,H,L,S
 279,The Weinstein Company,1,65.0,14600347.0,M,L,S
-280,Third Rail Releasing,3,42.5,288328.0,M,L,S
+280,Third Rail Releasing,3,42.5,166003.0,M,L,S
 281,Tidepoint Pictures,1,59.0,94591.0,M,L,S
 282,Touchstone Home Video,1,84.0,29089912.0,H,L,S
-283,Touchstone Pictures,5,49.4,10805971.6,M,L,S
-284,TriStar Pictures,42,47.4523809524,59104326.4524,M,L,B
-285,Tribeca Film,17,59.2941176471,91323.6666667,M,L,M
-286,Trimark Pictures,3,59.6666666667,268240.0,M,L,S
+283,Touchstone Pictures,5,49.4,7919117.0,M,L,S
+284,TriStar Pictures,42,47.4523809524,39983964.5,M,L,B
+285,Tribeca Film,17,59.2941176471,34768.0,M,L,M
+286,Trimark Pictures,3,59.6666666667,242623.0,M,L,S
 287,Triumph Films,1,66.0,468867.0,M,L,S
 288,Triumph Releasing Corporation,1,86.0,11487676.0,H,L,S
 289,Truly Indie,1,51.0,9613.0,M,L,S
 290,Twentieth Century Fox,1,46.0,49876377.0,M,L,S
-291,Twentieth Century Fox Film Corporation,160,51.25,72210703.6063,M,L,B
+291,Twentieth Century Fox Film Corporation,160,51.25,48965767.0,M,L,B
 292,Twentieth Century Fox Home Entertainment,1,28.0,4627375.0,L,L,S
-293,USA Films,11,74.0,23996150.1818,H,L,M
+293,USA Films,11,74.0,7504257.0,H,L,M
 294,UTV,1,45.0,5307960.0,M,L,S
-295,UTV Motion Pictures,7,40.0,2153628.42857,L,L,S
+295,UTV Motion Pictures,7,40.0,777373.0,L,L,S
 296,Unapix Entertainment Productions,1,70.0,2554.0,M,L,S
-297,United Artists,21,64.8571428571,41783053.2381,M,L,M
+297,United Artists,21,64.8571428571,23530892.0,M,L,M
 298,Universal Focus,1,74.0,21995263.0,H,L,S
 299,Universal Home Entertainment,1,89.0,44585453.0,H,L,S
-300,Universal Pictures,211,54.672985782,68953018.7962,M,L,B
+300,Universal Pictures,211,54.672985782,49438370.0,M,L,B
 301,Universal Studios Home Entertainment,1,28.0,56574.0,L,L,S
-302,Variance Films,10,65.8,87025.8,M,L,S
+302,Variance Films,10,65.8,50345.0,M,L,S
 303,Vertical Entertainment,2,49.0,4288.0,M,L,S
 304,Vestron Pictures,1,65.0,63954274.0,M,L,S
 305,Viacom18 Motion Pictures,1,42.0,,M,H,S
 306,Village Roadshow Entertainment,1,77.0,198000317.0,H,L,S
-307,Vitagraph Films,4,61.25,186419.25,M,L,S
+307,Vitagraph Films,4,61.25,111221.5,M,L,S
 308,Vivendi Entertainment,2,35.5,1588015.0,L,L,S
-309,Walt Disney Pictures,3,56.6666666667,31355957.3333,M,L,S
+309,Walt Disney Pictures,3,56.6666666667,35291068.0,M,L,S
 310,Walt Disney Studios,1,94.0,10055859.0,H,L,S
-311,Walt Disney Studios Motion Pictures,45,55.0,96416072.2444,M,L,B
-312,Warner Bros.,15,54.8666666667,50672525.0667,M,L,M
+311,Walt Disney Studios Motion Pictures,45,55.0,79884879.0,M,L,B
+312,Warner Bros.,15,54.8666666667,47047013.0,M,L,M
 313,Warner Bros. Domestic Television Distribution,1,78.0,18715392.0,H,L,S
 314,Warner Bros. Entertainment,1,41.0,103860290.0,M,L,S
-315,Warner Bros. Pictures,233,52.8111587983,70636969.0644,M,L,B
+315,Warner Bros. Pictures,233,52.8111587983,46294610.0,M,L,B
 316,Warner Brothers/Seven Arts,1,81.0,,H,H,S
-317,Warner Home Video,5,42.4,62696519.2,M,L,S
-318,Warner Independent Pictures (WIP),14,67.2857142857,6123237.42857,M,L,M
-319,"Weinstein Company, The",63,58.7258064516,23311972.5873,M,L,B
-320,Well Go,3,55.6666666667,262335.0,M,L,S
-321,Well Go USA Entertainment,6,49.25,81642.0,M,L,S
-322,Wellspring Media,6,69.3333333333,893557.333333,M,L,S
+317,Warner Home Video,5,42.4,59694580.0,M,L,S
+318,Warner Independent Pictures (WIP),14,67.2857142857,5525769.5,M,L,M
+319,"Weinstein Company, The",63,58.7258064516,7693187.0,M,L,B
+320,Well Go,3,55.6666666667,66099.0,M,L,S
+321,Well Go USA Entertainment,6,49.25,21519.0,M,L,S
+322,Wellspring Media,6,69.3333333333,572691.0,M,L,S
 323,Wolfe Releasing,1,66.0,8614.0,M,L,S
 324,XLrator Media,1,30.0,40400.0,L,L,S
 325,Ximotion Media,1,67.0,256682.0,M,L,S
 326,Yari Film Group Releasing,3,68.0,20521142.5,M,L,S
 327,Yash Raj Films,1,,496172.0,H,L,S
-328,Zeitgeist Films,15,76.8666666667,373069.4,H,L,M
+328,Zeitgeist Films,15,76.8666666667,233380.0,H,L,M
 329,Zipporah Films,1,89.0,253941.0,H,L,S
 330,erbp,1,81.0,444098.0,H,L,S
-331,thinkfilm,9,66.4444444444,2184855.55556,M,L,S
+331,thinkfilm,9,66.4444444444,1815864.0,M,L,S
