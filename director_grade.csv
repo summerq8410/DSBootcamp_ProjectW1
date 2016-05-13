@@ -1,1481 +1,1481 @@
-director_open_1M|director_num_bucket|director_rating_bucket
-False|1|average
-True|1|average
-True|1|average
-False|2-4|bad
-True|1|good
-True|1|average
-True|1|good
-True|1|bad
-True|1|bad
-True|1|average
-False|1|average
-True|1|average
-False|1|
-True|1|average
-True|1|average
-False|2-4|average
-False|1|bad
-False|5+|bad
-True|1|average
-False|2-4|average
-False|1|average
-True|1|average
-True|1|good
-False|1|average
-True|1|bad
-True|1|average
-True|1|average
-True|1|average
-False|2-4|average
-True|1|average
-False|1|bad
-True|2-4|average
-False|1|average
-False|2-4|average
-False|1|average
-False|1|average
-False|1|average
-False|2-4|average
-False|1|average
-False|2-4|average
-True|1|good
-True|1|average
-True|2-4|average
-False|2-4|bad
-False|1|average
-False|2-4|average
-False|2-4|good
-False|1|bad
-False|2-4|bad
-False|1|average
-True|1|bad
-False|2-4|average
-True|1|
-True|1|average
-True|1|good
-False|1|average
-False|2-4|average
-True|1|average
-True|1|bad
-True|1|average
-True|1|good
-True|1|average
-False|5+|average
-False|2-4|average
-True|2-4|average
-True|1|good
-False|2-4|average
-True|1|average
-True|1|average
-False|2-4|average
-True|1|average
-False|1|average
-True|1|average
-True|2-4|average
-False|2-4|average
-True|1|average
-False|2-4|good
-False|2-4|average
-True|1|good
-False|1|average
-True|1|average
-True|1|average
-False|1|bad
-False|5+|average
-False|5+|average
-False|5+|average
-False|5+|average
-False|1|bad
-True|1|average
-False|1|average
-False|2-4|average
-True|1|average
-True|1|average
-True|2-4|average
-True|1|average
-False|1|bad
-True|1|average
-False|1|average
-True|1|average
-False|1|average
-False|2-4|average
-False|1|average
-False|1|bad
-False|5+|average
-True|1|average
-False|1|average
-True|1|good
-False|2-4|average
-True|1|good
-True|1|good
-True|1|good
-False|1|average
-False|2-4|average
-False|2-4|average
-False|1|average
-False|2-4|average
-False|2-4|average
-True|1|average
-True|2-4|average
-True|1|average
-True|1|average
-True|1|good
-False|1|average
-True|1|good
-True|1|average
-False|2-4|average
-False|2-4|average
-False|5+|average
-True|1|average
-False|1|average
-False|2-4|average
-False|1|average
-False|2-4|average
-False|2-4|average
-True|1|good
-False|2-4|average
-True|2-4|average
-False|2-4|average
-True|1|good
-True|1|average
-False|1|bad
-False|2-4|good
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-False|2-4|average
-True|1|average
-True|1|average
-True|1|average
-False|2-4|average
-False|1|average
-False|2-4|average
-False|2-4|average
-False|1|average
-False|1|average
-True|1|good
-False|1|good
-False|2-4|average
-False|2-4|average
-True|1|average
-False|2-4|average
-False|1|average
-True|1|bad
-False|1|bad
-False|2-4|average
-False|2-4|average
-False|1|average
-True|1|bad
-False|1|bad
-False|1|good
-False|1|bad
-False|5+|average
-True|2-4|average
-True|5+|average
-False|2-4|good
-False|1|average
-True|1|
-False|1|average
-False|1|average
-False|2-4|average
-False|1|bad
-True|1|average
-True|1|average
-False|2-4|average
-False|1|average
-False|1|bad
-False|5+|average
-False|1|bad
-False|5+|average
-False|1|average
-False|1|average
-False|2-4|average
-False|2-4|bad
-False|5+|bad
-False|1|average
-False|1|bad
-False|1|average
-False|2-4|average
-True|1|average
-False|1|average
-True|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-True|1|average
-False|1|average
-False|1|bad
-False|1|average
-False|5+|average
-True|1|average
-True|1|average
-True|1|average
-True|1|good
-False|2-4|average
-True|1|average
-True|1|average
-False|2-4|average
-True|1|average
-True|1|average
-False|1|good
-False|1|average
-True|1|average
-True|1|average
-False|1|bad
-True|1|average
-False|2-4|average
-True|2-4|average
-True|1|good
-False|1|average
-True|2-4|good
-False|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-True|1|average
-True|1|average
-True|1|bad
-False|1|average
-False|1|average
-False|5+|average
-True|1|average
-True|1|
-False|1|bad
-False|2-4|average
-False|2-4|average
-False|2-4|average
-False|1|good
-True|1|average
-False|1|average
-False|1|average
-False|2-4|average
-False|1|bad
-True|2-4|average
-False|1|bad
-False|2-4|average
-False|2-4|bad
-False|1|bad
-True|1|good
-True|1|average
-False|2-4|average
-False|2-4|bad
-False|2-4|average
-True|1|good
-False|1|average
-True|1|average
-True|1|average
-False|5+|average
-False|1|average
-True|1|average
-True|1|good
-False|2-4|average
-True|1|average
-True|1|average
-True|2-4|good
-False|1|average
-True|1|average
-False|5+|average
-True|1|good
-False|1|bad
-True|1|average
-False|2-4|average
-False|1|average
-False|1|average
-True|1|good
-False|2-4|bad
-False|1|average
-False|2-4|average
-False|2-4|bad
-True|1|average
-False|2-4|good
-True|1|average
-True|1|average
-False|5+|average
-False|2-4|bad
-False|1|average
-True|1|average
-True|1|average
-False|1|average
-False|1|average
-True|1|average
-False|1|average
-True|1|average
-True|1|good
-True|1|average
-True|1|good
-True|2-4|average
-True|1|average
-False|1|average
-False|1|average
-True|1|average
-False|2-4|average
-False|1|average
-True|1|average
-True|1|
-False|5+|average
-False|1|bad
-False|2-4|average
-False|1|bad
-False|2-4|bad
-False|1|bad
-False|1|average
-False|5+|average
-False|1|bad
-True|1|average
-True|1|average
-False|1|bad
-True|1|average
-False|1|average
-True|1|
-False|2-4|average
-False|2-4|average
-True|1|bad
-False|5+|average
-True|1|
-False|2-4|average
-False|5+|average
-False|1|average
-False|2-4|average
-False|1|average
-True|1|average
-False|5+|average
-False|1|average
-True|1|average
-False|1|bad
-True|1|bad
-False|2-4|average
-True|5+|average
-False|1|average
-True|2-4|average
-True|1|average
-False|2-4|bad
-True|1|good
-False|1|average
-False|2-4|average
-False|1|average
-False|2-4|average
-False|1|bad
-False|1|average
-True|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-True|1|average
-False|2-4|average
-True|1|bad
-False|2-4|average
-True|2-4|average
-False|2-4|average
-False|1|bad
-False|1|average
-True|1|average
-True|1|good
-True|1|average
-True|1|average
-False|1|bad
-True|1|average
-False|2-4|bad
-False|5+|bad
-False|1|good
-True|2-4|bad
-False|2-4|average
-True|1|
-True|1|average
-True|1|good
-True|1|bad
-True|1|average
-False|1|bad
-False|1|bad
-False|2-4|average
-False|2-4|bad
-True|1|average
-False|1|average
-True|1|average
-False|1|average
-False|1|average
-True|1|bad
-False|5+|average
-True|1|average
-False|1|average
-True|1|average
-False|1|average
-False|1|bad
-False|5+|average
-False|2-4|average
-True|1|average
-False|1|average
-False|1|average
-False|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-False|1|bad
-True|1|average
-False|1|average
-True|1|average
-False|1|bad
-False|2-4|average
-True|1|average
-False|1|average
-False|1|average
-False|5+|average
-True|1|bad
-False|1|average
-True|1|average
-False|2-4|average
-False|1|average
-False|1|average
-False|1|average
-False|1|average
-True|1|
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-False|1|bad
-False|2-4|average
-False|2-4|average
-False|1|average
-False|1|average
-True|1|average
-True|1|average
-False|1|bad
-False|1|average
-True|1|average
-False|5+|average
-False|1|average
-True|1|average
-True|1|average
-False|5+|average
-True|1|average
-True|1|bad
-False|1|average
-True|2-4|good
-True|1|good
-False|2-4|average
-True|1|average
-False|1|average
-True|1|average
-True|1|average
-False|1|bad
-False|1|average
-False|5+|average
-False|1|average
-False|2-4|average
-True|2-4|average
-False|1|bad
-False|1|average
-False|5+|average
-False|2-4|average
-True|1|bad
-False|1|bad
-False|1|average
-False|1|average
-False|5+|average
-True|1|average
-False|1|good
-True|2-4|average
-True|1|average
-False|1|bad
-False|2-4|average
-False|2-4|bad
-False|1|bad
-True|1|average
-True|1|bad
-False|1|average
-False|2-4|average
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-False|5+|bad
-True|1|average
-False|1|average
-False|1|average
-False|2-4|average
-False|1|average
-False|1|average
-False|2-4|average
-False|1|average
-False|2-4|average
-True|2-4|average
-False|2-4|average
-False|1|average
-False|1|bad
-True|1|average
-False|1|average
-False|1|bad
-False|2-4|average
-True|1|average
-False|1|average
-False|1|average
-False|2-4|average
-False|1|average
-True|1|average
-False|1|average
-True|1|average
-False|1|average
-False|2-4|average
-True|1|average
-True|2-4|average
-True|1|average
-True|2-4|average
-False|2-4|average
-False|1|average
-False|1|bad
-False|1|bad
-False|5+|average
-True|1|average
-False|1|average
-False|1|bad
-False|1|bad
-True|1|bad
-False|2-4|average
-False|2-4|average
-True|1|average
-True|2-4|average
-True|2-4|average
-False|1|bad
-False|5+|average
-True|2-4|average
-True|1|average
-False|2-4|average
-False|5+|average
-True|2-4|good
-False|2-4|average
-True|1|average
-True|1|average
-True|1|average
-True|1|good
-True|1|average
-False|2-4|bad
-False|1|bad
-False|5+|average
-False|2-4|good
-False|1|average
-True|1|average
-True|2-4|average
-False|1|bad
-True|1|average
-True|1|average
-False|1|average
-True|2-4|good
-False|1|average
-True|1|average
-True|1|average
-False|2-4|bad
-True|1|average
-False|1|average
-False|2-4|average
-True|1|average
-False|2-4|average
-True|1|average
-True|1|average
-True|1|average
-False|2-4|average
-True|2-4|average
-False|5+|average
-False|1|average
-True|1|average
-False|1|average
-True|1|bad
-False|1|average
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-False|1|average
-True|1|good
-False|1|average
-True|1|average
-True|1|average
-False|1|average
-False|5+|average
-False|2-4|average
-False|1|average
-False|1|average
-True|1|average
-False|1|average
-False|1|bad
-True|2-4|good
-True|1|bad
-False|2-4|average
-False|2-4|average
-True|2-4|good
-False|1|average
-False|2-4|average
-True|1|average
-True|1|average
-True|2-4|average
-False|2-4|average
-False|2-4|average
-False|2-4|bad
-False|1|bad
-True|1|average
-True|1|average
-False|2-4|average
-True|2-4|good
-True|1|average
-True|1|average
-False|2-4|average
-False|1|bad
-True|1|average
-True|1|bad
-False|1|average
-False|2-4|average
-True|1|average
-False|1|average
-False|1|bad
-False|2-4|average
-True|2-4|average
-False|1|bad
-False|2-4|average
-False|1|average
-True|1|average
-True|1|average
-False|1|average
-False|2-4|average
-True|1|average
-False|1|bad
-True|1|average
-False|2-4|average
-True|1|average
-False|1|bad
-True|1|
-True|1|average
-True|1|average
-True|1|good
-True|1|good
-False|1|average
-False|1|average
-False|1|average
-False|1|bad
-True|1|
-True|1|average
-False|1|average
-False|1|bad
-False|1|average
-False|1|average
-False|1|average
-True|1|bad
-True|1|average
-False|2-4|average
-False|1|bad
-False|2-4|bad
-False|1|average
-False|1|average
-True|1|average
-False|1|bad
-True|2-4|average
-True|1|bad
-True|1|average
-False|1|average
-True|1|average
-False|1|average
-False|1|average
-True|2-4|average
-True|1|average
-True|1|average
-False|1|average
-False|2-4|average
-False|1|bad
-True|1|average
-True|1|average
-False|1|bad
-True|1|average
-True|1|average
-False|1|bad
-False|1|bad
-True|1|average
-False|2-4|average
-False|2-4|average
-False|1|bad
-True|1|average
-False|1|average
-False|5+|average
-False|2-4|average
-False|1|average
-False|2-4|bad
-False|2-4|average
-False|1|bad
-False|1|average
-False|5+|average
-False|1|average
-False|2-4|average
-True|1|average
-False|1|average
-False|1|average
-False|1|bad
-True|2-4|average
-True|1|good
-False|2-4|average
-True|2-4|average
-True|2-4|average
-False|2-4|average
-True|1|
-False|1|bad
-False|1|average
-True|1|average
-False|1|average
-True|1|average
-True|2-4|bad
-False|2-4|average
-False|1|average
-False|2-4|average
-False|1|bad
-True|1|average
-False|2-4|average
-False|1|good
-False|2-4|average
-False|2-4|average
-False|1|average
-False|2-4|average
-False|5+|average
-True|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-False|1|bad
-False|1|average
-False|1|average
-False|1|bad
-False|1|average
-True|1|average
-False|2-4|average
-False|5+|average
-False|1|average
-True|1|bad
-False|1|average
-False|2-4|average
-True|1|average
-True|2-4|average
-True|1|average
-False|2-4|bad
-False|2-4|average
-True|1|good
-False|2-4|average
-False|2-4|bad
-False|1|average
-False|2-4|average
-True|1|average
-False|1|average
-True|1|average
-False|2-4|average
-True|1|average
-False|1|bad
-True|1|average
-True|1|good
-False|2-4|average
-False|5+|average
-False|1|average
-True|2-4|average
-False|2-4|average
-True|1|average
-False|1|bad
-False|1|bad
-False|2-4|average
-True|2-4|good
-True|1|average
-True|1|average
-False|1|average
-False|1|bad
-True|1|good
-False|2-4|average
-False|1|average
-True|1|
-False|1|average
-True|1|
-True|2-4|average
-False|1|bad
-False|1|
-True|1|good
-True|1|bad
-False|1|average
-True|1|bad
-True|1|average
-False|2-4|average
-False|2-4|average
-True|1|good
-False|2-4|average
-True|1|average
-True|1|average
-True|1|average
-True|2-4|average
-False|2-4|bad
-True|2-4|average
-False|1|average
-False|1|average
-False|1|average
-False|2-4|average
-True|2-4|average
-False|1|average
-False|2-4|average
-False|1|average
-True|2-4|average
-True|1|average
-True|1|average
-False|5+|bad
-True|1|average
-True|1|average
-False|2-4|average
-True|2-4|good
-False|2-4|bad
-True|2-4|average
-False|2-4|average
-True|2-4|average
-False|2-4|average
-False|1|bad
-False|1|average
-False|2-4|average
-True|1|average
-False|2-4|average
-False|5+|average
-True|1|bad
-False|1|average
-False|1|average
-False|5+|average
-True|1|average
-True|1|good
-True|1|bad
-True|1|good
-False|1|average
-True|2-4|average
-False|1|bad
-False|2-4|average
-False|1|bad
-False|1|bad
-True|1|good
-False|2-4|bad
-True|1|average
-True|1|average
-True|1|good
-False|2-4|average
-True|1|average
-True|5+|average
-False|2-4|average
-True|1|average
-False|1|average
-True|1|average
-True|1|average
-False|2-4|bad
-False|5+|average
-True|1|average
-True|2-4|bad
-False|2-4|average
-True|1|average
-False|1|good
-True|1|average
-False|2-4|average
-True|1|average
-True|1|average
-True|1|good
-False|2-4|average
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-False|2-4|average
-True|1|good
-True|1|average
-False|2-4|average
-True|1|average
-False|2-4|average
-False|5+|average
-False|1|average
-True|1|average
-True|1|average
-True|1|average
-True|1|good
-True|1|average
-True|1|average
-False|1|bad
-False|2-4|average
-False|1|average
-True|1|good
-False|2-4|average
-True|2-4|average
-True|2-4|average
-False|5+|average
-True|2-4|average
-True|1|average
-True|1|
-False|1|average
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-True|1|
-False|5+|average
-False|1|average
-True|1|average
-True|1|average
-False|1|average
-True|1|average
-False|1|bad
-False|1|bad
-False|1|bad
-False|1|bad
-True|1|average
-True|1|average
-True|1|
-True|2-4|average
-False|1|bad
-False|2-4|average
-False|1|bad
-False|1|average
-True|1|average
-False|1|bad
-False|2-4|average
-False|2-4|average
-False|1|bad
-False|2-4|bad
-False|1|bad
-False|5+|average
-True|1|average
-False|5+|average
-False|5+|average
-False|1|bad
-True|1|average
-False|2-4|average
-False|5+|average
-False|2-4|average
-True|1|average
-True|1|average
-False|1|bad
-False|1|average
-False|1|average
-False|1|average
-False|1|average
-True|1|bad
-False|2-4|average
-True|1|average
-True|1|average
-False|2-4|average
-False|1|average
-False|2-4|average
-False|1|average
-False|1|bad
-True|1|average
-True|1|average
-True|1|
-False|2-4|average
-False|2-4|average
-True|1|average
-False|2-4|average
-False|1|average
-False|1|average
-False|1|average
-True|2-4|good
-False|2-4|average
-False|1|average
-True|1|average
-False|1|bad
-False|2-4|average
-False|2-4|bad
-False|5+|average
-True|1|average
-False|1|average
-False|2-4|average
-False|1|average
-False|1|bad
-False|2-4|average
-True|1|bad
-True|1|average
-True|1|average
-False|1|
-False|1|average
-False|2-4|average
-True|1|average
-False|1|average
-True|2-4|average
-False|2-4|average
-False|2-4|average
-True|1|average
-True|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-False|1|average
-True|1|average
-True|1|average
-False|2-4|average
-False|2-4|average
-False|2-4|average
-True|2-4|good
-False|1|average
-True|1|good
-False|2-4|bad
-False|2-4|average
-False|5+|average
-False|5+|average
-False|2-4|average
-True|2-4|average
-True|2-4|average
-True|1|bad
-True|1|average
-True|1|average
-True|2-4|average
-True|1|average
-True|2-4|average
-False|2-4|average
-True|2-4|average
-True|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-False|2-4|average
-False|1|good
-True|1|average
-True|1|bad
-True|1|average
-False|1|average
-True|1|average
-True|1|average
-False|1|average
-True|1|average
-False|2-4|average
-False|1|bad
-False|2-4|average
-False|1|good
-True|1|average
-True|1|good
-True|2-4|average
-False|2-4|average
-True|2-4|average
-True|1|average
-False|2-4|average
-True|1|average
-False|2-4|average
-True|1|average
-False|2-4|average
-True|2-4|average
-False|1|average
-False|5+|average
-True|1|good
-False|2-4|average
-True|2-4|good
-False|1|bad
-True|1|average
-True|1|average
-True|2-4|average
-False|5+|average
-True|2-4|good
-True|1|average
-False|2-4|average
-False|1|
-True|1|average
-False|1|average
-False|2-4|average
-True|1|average
-True|1|
-True|1|average
-True|1|bad
-True|1|average
-True|1|average
-False|1|average
-True|1|average
-False|1|average
-True|1|good
-False|1|average
-False|1|bad
-False|1|average
-False|1|bad
-False|1|average
-False|1|average
-True|1|average
-False|5+|good
-False|2-4|average
-False|1|bad
-False|1|good
-False|2-4|average
-False|1|bad
-True|1|average
-True|1|average
-False|5+|good
-False|5+|average
-False|2-4|average
-False|2-4|average
-True|1|good
-True|5+|average
-False|2-4|average
-False|2-4|average
-False|1|bad
-False|2-4|average
-False|5+|average
-False|1|bad
-True|1|average
-False|2-4|average
-False|1|average
-False|1|bad
-False|2-4|average
-False|1|bad
-False|2-4|average
-False|2-4|bad
-False|2-4|average
-True|1|good
-True|1|bad
-False|2-4|average
-False|1|average
-True|1|average
-False|1|bad
-False|5+|average
-False|1|average
-False|2-4|average
-True|1|bad
-False|1|average
-True|1|average
-False|2-4|bad
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-True|1|bad
-False|2-4|average
-False|2-4|average
-False|2-4|average
-True|1|average
-False|1|bad
-True|1|
-True|1|
-True|1|
-False|1|bad
-True|1|bad
-True|1|average
-False|5+|average
-True|1|bad
-True|1|average
-True|1|average
-True|1|average
-True|1|good
-False|5+|bad
-False|1|bad
-True|1|good
-False|1|bad
-False|1|average
-True|1|average
-False|2-4|average
-True|1|good
-False|1|average
-True|1|average
-True|2-4|average
-False|1|average
-False|5+|bad
-True|1|average
-True|2-4|average
-True|1|bad
-True|1|average
-False|1|average
-False|5+|average
-False|2-4|average
-True|2-4|average
-True|1|average
-False|2-4|average
-True|5+|average
-False|2-4|average
-True|1|average
-False|1|average
-True|1|average
-True|1|
-False|1|bad
-False|5+|average
-False|2-4|bad
-False|2-4|average
-False|1|bad
-False|2-4|average
-False|1|bad
-False|5+|average
-False|5+|average
-False|1|bad
-True|1|average
-False|2-4|average
-False|5+|average
-False|2-4|average
-False|1|average
-True|1|average
-True|1|average
-False|2-4|average
-False|1|bad
-True|1|average
-True|1|average
-False|1|average
-False|2-4|average
-True|2-4|average
-False|5+|average
-False|5+|average
-False|2-4|average
-False|1|average
-True|1|average
-False|1|average
-False|5+|average
-False|1|average
-True|1|good
-False|1|average
-True|1|average
-True|2-4|average
-True|1|average
-True|2-4|average
-False|5+|average
-False|5+|bad
-False|2-4|average
-False|2-4|average
-True|1|
-False|5+|average
-False|2-4|bad
-False|2-4|average
-True|1|average
-False|5+|average
-False|1|average
-False|1|average
-False|2-4|bad
-True|1|average
-True|1|average
-False|2-4|average
-True|1|average
-False|1|average
-False|1|bad
-True|1|average
-True|1|good
-False|1|bad
-False|2-4|average
-True|1|average
-False|1|average
-True|1|average
-False|5+|average
-False|5+|average
-True|1|average
-False|1|bad
-True|1|good
-False|1|average
-True|1|average
-True|1|average
-False|1|bad
-True|2-4|average
-True|1|good
-False|1|average
-False|1|good
-False|2-4|average
-False|1|average
-True|1|average
-False|2-4|average
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-False|1|average
-True|1|average
-True|1|average
-False|2-4|bad
-False|2-4|average
-True|1|good
-True|1|good
-True|1|average
-True|1|bad
-False|2-4|average
-False|1|bad
-False|1|average
-False|1|average
-False|1|average
-True|1|average
-True|1|average
-True|1|
-True|2-4|average
-False|1|average
-True|1|average
-False|5+|average
-False|1|average
-True|1|average
-True|1|average
-True|1|average
-True|2-4|average
-True|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-False|1|average
-False|1|average
-False|2-4|average
-True|1|average
-True|1|average
-False|2-4|good
-False|5+|average
-False|2-4|average
-False|1|average
-True|1|average
-False|1|bad
-True|1|average
-False|1|average
-False|2-4|average
-False|2-4|average
-True|1|bad
-False|5+|average
-False|1|average
-False|1|average
-False|2-4|average
-False|1|average
-False|2-4|average
-False|2-4|bad
-False|2-4|average
-False|1|bad
-True|1|
-False|1|average
-False|1|average
-False|2-4|bad
-True|1|average
-False|2-4|average
-True|1|average
-True|2-4|average
-True|1|average
-False|1|bad
-False|1|bad
-False|2-4|average
-False|1|bad
-False|1|bad
-False|2-4|bad
-True|1|average
-False|1|average
-True|1|bad
-True|2-4|average
-False|5+|average
-False|5+|average
-False|1|average
-False|1|bad
-False|1|average
-True|1|average
-True|1|good
-False|1|average
-True|2-4|average
-False|2-4|average
-True|1|good
-False|1|average
-False|1|average
-True|1|average
-True|1|average
-False|1|average
-True|2-4|average
-False|2-4|average
-True|1|bad
-True|1|good
-False|2-4|bad
-True|1|average
-False|1|average
-False|5+|average
-False|2-4|average
-False|1|average
-True|1|average
-False|2-4|good
-False|2-4|average
-False|5+|average
-False|2-4|good
-False|1|average
-True|1|good
-False|1|average
-False|2-4|average
-False|1|average
-True|2-4|average
-False|2-4|average
-True|2-4|average
-False|2-4|average
-False|5+|average
-False|1|average
-False|2-4|bad
-False|1|average
-False|1|average
-False|1|average
-False|2-4|bad
-False|1|
-False|1|average
-False|2-4|average
-False|1|average
-True|2-4|good
-False|2-4|average
-True|2-4|average
-False|1|bad
-True|1|average
-False|2-4|average
-True|1|average
-True|1|bad
-True|5+|average
-True|2-4|average
-False|2-4|bad
-False|2-4|average
-True|1|average
-True|1|average
-False|1|bad
-False|1|average
-False|2-4|good
-True|1|bad
-False|1|bad
-False|5+|average
-False|2-4|average
-False|1|bad
-False|1|good
-False|1|average
-True|1|average
-False|1|average
-False|2-4|average
-True|1|average
-True|2-4|average
-False|5+|average
-True|1|average
-False|1|bad
-False|1|bad
-False|2-4|average
-True|1|average
-False|1|bad
-False|1|average
-False|1|average
-True|1|average
-False|1|average
-False|5+|bad
-True|1|average
-True|1|average
-True|1|average
-False|1|bad
-False|1|average
-True|1|
-False|1|bad
-True|2-4|average
-False|1|average
-False|2-4|average
-True|1|average
-False|2-4|bad
-False|2-4|average
-False|1|average
-False|2-4|average
-False|1|average
-False|1|average
-True|1|average
-True|2-4|good
-False|5+|average
-False|5+|average
-True|1|average
-False|1|average
-False|1|average
-False|1|bad
-True|1|average
-False|2-4|average
-False|1|bad
-True|1|average
-True|1|good
-False|5+|average
-False|5+|average
-True|1|good
-True|1|average
-True|1|good
-True|1|average
-True|1|average
-True|1|average
-True|1|average
-True|2-4|good
-True|1|average
-False|1|average
-False|2-4|average
-True|1|average
-True|2-4|good
-True|1|average
-True|1|
-True|2-4|good
-True|2-4|average
+director|director_open_1M|director_num_bucket|director_rating_bucket
+Aaron Blaise|False|1|average
+Aaron Katz|True|1|average
+Aaron Schneider|True|1|average
+Aaron Seltzer|False|2-4|bad
+Abbas Kiarostami|True|1|good
+Abby Epstein|True|1|average
+Abdel Kechiche|True|1|good
+Abdul Malik Abbott|True|1|bad
+Abe Sylvia|True|1|bad
+Abel Ferrara|True|1|average
+Adam Brooks|False|1|average
+Adam Green|True|1|average
+Adam Jay Epstein|False|1|
+Adam Kassen|True|1|average
+Adam Larson Broder|True|1|average
+Adam McKay|False|2-4|average
+Adam Rifkin|False|1|bad
+Adam Shankman|False|5+|bad
+Adam Wingard|True|1|average
+Adrian Lyne|False|2-4|average
+Adrienne Shelly|False|1|average
+Agnieszka Holland|True|1|average
+Aki Kaurismäki|True|1|good
+Akiva Schaffer|False|1|average
+Alain Berliner|True|1|bad
+Alain Corneau|True|1|average
+Alain Gagnol|True|1|average
+Alain Resnais|True|1|average
+Alan J. Pakula|False|2-4|average
+Alan Mak|True|1|average
+Alan Parker|False|1|bad
+Alan Rudolph|True|2-4|average
+Alastair Fothergill|False|1|average
+Albert Hughes|False|2-4|average
+Albert Magnoli|False|1|average
+Alec Berg|False|1|average
+Alejandro Agresti|False|1|average
+Alejandro Amenábar|False|2-4|average
+Alejandro Gomez Monteverde|False|1|average
+Alejandro González Iñárritu|False|2-4|average
+Aleksandr Sokurov|True|1|good
+Alex Cox|True|1|average
+Alex Gibney|True|2-4|average
+Alex Kendrick|False|2-4|bad
+Alex Kurtzman|False|1|average
+Alex Proyas|False|2-4|average
+Alexander Payne|False|2-4|good
+Alexander Witt|False|1|bad
+Alexandre Aja|False|2-4|bad
+Alexandre O. Philippe|False|1|average
+Alexis Lloyd|True|1|bad
+Alfonso Cuarón|False|2-4|average
+Ali Abbas Zafar|True|1|
+Alice Wu|True|1|average
+Alison Klayman|True|1|good
+Alister Grierson|False|1|average
+Allen Coulter|False|2-4|average
+Allen Hughes|True|1|average
+Allen Wolf|True|1|bad
+Ami Canaan Mann|True|1|average
+Amir Bar-Lev|True|1|good
+Amy Berg|True|1|average
+Amy Heckerling|False|5+|average
+Anand Tucker|False|2-4|average
+Andrea Arnold|True|2-4|average
+Andrei Zvyagintsev|True|1|good
+Andrew Adamson|False|2-4|average
+Andrew Bujalski|True|1|average
+Andrew Currie|True|1|average
+Andrew Davis|False|2-4|average
+Andrew Dominik|True|1|average
+Andrew Fleming|False|1|average
+Andrew Gurland|True|1|average
+Andrew Jarecki|True|2-4|average
+Andrew Niccol|False|2-4|average
+Andrew Rossi|True|1|average
+Andrew Stanton|False|2-4|good
+Andrzej Bartkowiak|False|2-4|average
+Andrzej Wajda|True|1|good
+André Téchiné|False|1|average
+André Øvredal|True|1|average
+Andy Abrahams Wilson|True|1|average
+Andy Cheng|False|1|bad
+Andy Fickman|False|5+|average
+Andy Tennant|False|5+|average
+Andy Wachowski|False|5+|average
+Ang Lee|False|5+|average
+Angel Gracia|False|1|bad
+Angelina Jolie|True|1|average
+Anna Boden|False|1|average
+Anne Fletcher|False|2-4|average
+Anne Fontaine|True|1|average
+Anne Sewitsky|True|1|average
+Anne Sundberg|True|2-4|average
+Anthony Baxter|True|1|average
+Anthony Bell|False|1|bad
+Anthony Burns|True|1|average
+Anthony Hemingway|False|1|average
+Anthony Hopkins|True|1|average
+Anthony Leondis|False|1|average
+Anthony Minghella|False|2-4|average
+Anthony Russo|False|1|average
+Anthony Waller|False|1|bad
+Antoine Fuqua|False|5+|average
+Anton Corbijn|True|1|average
+Anubhav Sinha|False|1|average
+Ari Folman|True|1|good
+Ariel Schulman|False|2-4|average
+Armando Iannucci|True|1|good
+Arnaud Desplechin|True|1|good
+Arnon Goldfinger|True|1|good
+Art Vitello|False|1|average
+Arthur Hiller|False|2-4|average
+Arthur Penn|False|2-4|average
+Asger Leth|False|1|average
+Ash Brannon|False|2-4|average
+Asif Kapadia|False|2-4|average
+Athina Rachel Tsangari|True|1|average
+Atom Egoyan|True|2-4|average
+Aurora Guerrero|True|1|average
+Azazel Jacobs|True|1|average
+Bahman Ghobadi|True|1|good
+Baltasar Kormákur|False|1|average
+Banksy|True|1|good
+Barbara Brancaccio|True|1|average
+Barbet Schroeder|False|2-4|average
+Barry Cook|False|2-4|average
+Barry Levinson|False|5+|average
+Barry Poltermann|True|1|average
+Barry Skolnick|False|1|average
+Barry Sonnenfeld|False|2-4|average
+Barry W. Blaustein|False|1|average
+Baz Luhrmann|False|2-4|average
+Ben Affleck|False|2-4|average
+Ben Shapiro|True|1|good
+Ben Stiller|False|2-4|average
+Ben Wheatley|True|2-4|average
+Ben Younger|False|2-4|average
+Benh Zeitlin|True|1|good
+Benjamin Heisenberg|True|1|average
+Bennett Davlin|False|1|bad
+Bennett Miller|False|2-4|good
+Benny Chan|True|1|average
+Benoît Jacquot|True|1|average
+Bent Hamer|True|1|average
+Bent-Jorgen Perlmutt|True|1|average
+Bernardo Bertolucci|False|2-4|average
+Bertrand Tavernier|True|1|average
+Bess Kargman|True|1|average
+Beto Gómez|True|1|average
+Betty Thomas|False|2-4|average
+Bharat Nalluri|False|1|average
+Bibo Bergeron|False|2-4|average
+Bill Condon|False|2-4|average
+Bill Duke|False|1|average
+Bill Paxton|False|1|average
+Bill Ross IV|True|1|good
+Bill Weber|False|1|good
+Bille Woodruff|False|2-4|average
+Billy Bob Thornton|False|2-4|average
+Billy Corben|True|1|average
+Billy Ray|False|2-4|average
+Blair Hayes|False|1|average
+Blayne Weaver|True|1|bad
+Bo Welch|False|1|bad
+Boaz Yakin|False|2-4|average
+Bob Clark|False|2-4|average
+Bob Dolman|False|1|average
+Bob Gosse|True|1|bad
+Bob Odenkirk|False|1|bad
+Bob Peterson|False|1|good
+Bob Spiers|False|1|bad
+Bobby Farrelly|False|5+|average
+Bobcat Goldthwait|True|2-4|average
+Brad Anderson|True|5+|average
+Brad Bird|False|2-4|good
+Brad Furman|False|1|average
+Brad Gann|True|1|
+Brad Lewis|False|1|average
+Brad Peyton|False|1|average
+Brad Silberling|False|2-4|average
+Bradley Parker|False|1|bad
+Bradley Rust Gray|True|1|average
+Brant Sersen|True|1|average
+Breck Eisner|False|2-4|average
+Brenda Chapman|False|1|average
+Brett Leonard|False|1|bad
+Brett Ratner|False|5+|average
+Brian Baugh|False|1|bad
+Brian De Palma|False|5+|average
+Brian Goodman|False|1|average
+Brian Helgeland|False|1|average
+Brian Koppelman|False|2-4|average
+Brian Levant|False|2-4|bad
+Brian Robbins|False|5+|bad
+Brian Taylor|False|1|average
+Britt Allcroft|False|1|bad
+Bruce A. Evans|False|1|average
+Bruce Beresford|False|2-4|average
+Bruce McDonald|True|1|average
+Bruce Robinson|False|1|average
+Bruce Sinofsky|True|1|average
+Bryan Bertino|False|1|average
+Bryan Singer|False|2-4|average
+Burr Steers|False|2-4|average
+Byambasuren Davaa|True|1|average
+Byron Howard|False|1|average
+C.B. Harding|False|1|bad
+Callie Khouri|False|1|average
+Cameron Crowe|False|5+|average
+Campbell Scott|True|1|average
+Cao Hamburger|True|1|average
+Carl Colby|True|1|average
+Carl Deal|True|1|good
+Carl Franklin|False|2-4|average
+Carlos Brooks|True|1|average
+Carlos Reygadas|True|1|average
+Carlos Saldanha|False|2-4|average
+Carol Morley|True|1|average
+Caroline Bottaro|True|1|average
+Carroll Ballard|False|1|good
+Carter Smith|False|1|average
+Cary Fukunaga|True|1|average
+Casey Affleck|True|1|average
+Casey La Scala|False|1|bad
+Cate Shortland|True|1|average
+Catherine Hardwicke|False|2-4|average
+Chan-wook Park|True|2-4|average
+Chang-dong Lee|True|1|good
+Charles Crichton|False|1|average
+Charles Ferguson|True|2-4|good
+Charles Guard|False|1|average
+Charles Martin Smith|False|1|average
+Charles Shyer|False|2-4|average
+Charles Stone III|False|2-4|average
+Charlie Kaufman|True|1|average
+Cherien Dabis|True|1|average
+Cheryl Hines|True|1|bad
+Chris Buck|False|1|average
+Chris Butler|False|1|average
+Chris Columbus|False|5+|average
+Chris Eigeman|True|1|average
+Chris Fisher|True|1|
+Chris Gorak|False|1|bad
+Chris Kentis|False|2-4|average
+Chris Miller|False|2-4|average
+Chris Nahon|False|2-4|average
+Chris Noonan|False|1|good
+Chris Paine|True|1|average
+Chris Renaud|False|1|average
+Chris Rock|False|1|average
+Chris Sanders|False|2-4|average
+Chris Sivertson|False|1|bad
+Chris Smith|True|2-4|average
+Chris Stokes|False|1|bad
+Chris Weitz|False|2-4|average
+Christian Alvart|False|2-4|bad
+Christian Duguay|False|1|bad
+Christian Petzold|True|1|good
+Christine Jeffs|True|1|average
+Christophe Gans|False|2-4|average
+Christopher Cain|False|2-4|bad
+Christopher Guest|False|2-4|average
+Christopher Kenneally|True|1|good
+Christopher McQuarrie|False|1|average
+Christopher Morris|True|1|average
+Christopher N. Rowley|True|1|average
+Christopher Nolan|False|5+|average
+Christopher Reeve|False|1|average
+Christopher Smith|True|1|average
+Chuan Lu|True|1|good
+Chuck Russell|False|2-4|average
+Ciaran Foy|True|1|average
+Cindy Meehl|True|1|average
+Claire Denis|True|2-4|good
+Clark Johnson|False|1|average
+Claudia Llosa|True|1|average
+Clint Eastwood|False|5+|average
+Clio Barnard|True|1|good
+Colin Strause|False|1|bad
+Colin Trevorrow|True|1|average
+Conrad Vernon|False|2-4|average
+Corey Yuen|False|1|average
+Cory Edwards|False|1|average
+Courtney Hunt|True|1|good
+Courtney Solomon|False|2-4|bad
+Craig Brewer|False|1|average
+Craig Gillespie|False|2-4|average
+Craig Mazin|False|2-4|bad
+Craig Zobel|True|1|average
+Curtis Hanson|False|2-4|good
+Cyrus Nowrasteh|True|1|average
+Cédric Kahn|True|1|average
+D.J. Caruso|False|5+|average
+DJ Pooh|False|2-4|bad
+Damien Dante Wayans|False|1|average
+Damien O'Donnell|True|1|average
+Dan Bush|True|1|average
+Dan Carracino|False|1|average
+Dan Cutforth|False|1|average
+Dan Eckman|True|1|average
+Dan Kuenster|False|1|average
+Dan Rush|True|1|average
+Dana Adam Shapiro|True|1|good
+Dana Brown|True|1|average
+Danfung Dennis|True|1|good
+Daniel Alfredson|True|2-4|average
+Daniel Barber|True|1|average
+Daniel Barnz|False|1|average
+Daniel Espinosa|False|1|average
+Daniel G. Karslake|True|1|average
+Daniel Myrick|False|2-4|average
+Daniel Stamm|False|1|average
+Danis Tanovic|True|1|average
+Danish Aslam|True|1|
+Danny Boyle|False|5+|average
+Danny Cannon|False|1|bad
+Danny DeVito|False|2-4|average
+Danny Leiner|False|1|bad
+Danny Pang|False|2-4|bad
+Darrel Campbell|False|1|bad
+Darrell Roodt|False|1|average
+Darren Aronofsky|False|5+|average
+Darren Stein|False|1|bad
+Darryl Roberts|True|1|average
+Daryl Wein|True|1|average
+Dave Borthwick|False|1|bad
+Dave McKean|True|1|average
+David Anspaugh|False|1|average
+David Arquette|True|1|
+David Ayer|False|2-4|average
+David Bowers|False|2-4|average
+David Brooks|True|1|bad
+David Cronenberg|False|5+|average
+David Dhawan|True|1|
+David Dobkin|False|2-4|average
+David Fincher|False|5+|average
+David Foenkinos|False|1|average
+David Frankel|False|2-4|average
+David G. Evans|False|1|average
+David Gelb|True|1|average
+David Gordon Green|False|5+|average
+David Hogan|False|1|average
+David Jacobson|True|1|average
+David Kellogg|False|1|bad
+David Kendall|True|1|bad
+David Koepp|False|2-4|average
+David Lynch|True|5+|average
+David M. Rosenthal|False|1|average
+David Mackenzie|True|2-4|average
+David McMahon|True|1|average
+David McNally|False|2-4|bad
+David Michôd|True|1|good
+David Mirkin|False|1|average
+David O. Russell|False|2-4|average
+David Palmer|False|1|average
+David R. Ellis|False|2-4|average
+David S. Goyer|False|1|bad
+David Schwimmer|False|1|average
+David Siegel|True|1|average
+David Silverman|False|1|average
+David Slade|False|2-4|average
+David Twohy|False|2-4|average
+David Von Ancken|True|1|average
+David Wain|False|2-4|average
+David Weaver|True|1|bad
+David Zucker|False|2-4|average
+Davis Guggenheim|True|2-4|average
+Dean Parisot|False|2-4|average
+Dean Wright|False|1|bad
+Deborah Kaplan|False|1|average
+Deborah Scranton|True|1|average
+Debra Granik|True|1|good
+Declan Donnellan|True|1|average
+Dee Rees|True|1|average
+Demian Lichtenstein|False|1|bad
+Denis Dercourt|True|1|average
+Dennie Gordon|False|2-4|bad
+Dennis Dugan|False|5+|bad
+Dennis Hopper|False|1|good
+Dennis Lee|True|2-4|bad
+Denzel Washington|False|2-4|average
+Deon Taylor|True|1|
+Dereck Joubert|True|1|average
+Derek Cianfrance|True|1|good
+Dermot Mulroney|True|1|bad
+Derrick Borte|True|1|average
+Dewey Nicks|False|1|bad
+Dinesh D'Souza|False|1|bad
+Dito Montiel|False|2-4|average
+Dominic Sena|False|2-4|bad
+Don Argott|True|1|average
+Don Bluth|False|1|average
+Don Hahn|True|1|average
+Don Hall|False|1|average
+Don Mancini|False|1|average
+Don Roos|True|1|bad
+Donald Petrie|False|5+|average
+Dong-hun Choi|True|1|average
+Donovan Cook|False|1|average
+Dori Berinstein|True|1|average
+Doug Atchison|False|1|average
+Doug Lefler|False|1|bad
+Doug Liman|False|5+|average
+Douglas McGrath|False|2-4|average
+Drake Doremus|True|1|average
+Drew Barrymore|False|1|average
+Drew Goddard|False|1|average
+Duncan Jones|False|1|average
+Duncan Tucker|False|1|average
+Dwight H. Little|False|2-4|average
+E. Elias Merhige|False|2-4|average
+Ed Decter|False|1|bad
+Ed Gass-Donnelly|True|1|average
+Ed Harris|False|1|average
+Ed Solomon|True|1|average
+Eddie Murphy|False|1|bad
+Edgar Wright|False|2-4|average
+Eduardo Sánchez|True|1|average
+Edward James Olmos|False|1|average
+Edward Norton|False|1|average
+Edward Zwick|False|5+|average
+Efram Potelle|True|1|bad
+Elaine May|False|1|average
+Eli Craig|True|1|average
+Eli Roth|False|2-4|average
+Elizabeth Allen|False|1|average
+Ellory Elkayem|False|1|average
+Emile Ardolino|False|1|average
+Emilio Estevez|False|1|average
+Emilio Portes|True|1|
+Emir Kusturica|True|1|average
+Emmanuel Mouret|True|1|average
+Eran Kolirin|True|1|average
+Eran Riklis|True|1|average
+Eric Bress|False|1|bad
+Eric Brevig|False|2-4|average
+Eric Darnell|False|2-4|average
+Eric Goldberg|False|1|average
+Eric Leighton|False|1|average
+Eric Mendelsohn|True|1|average
+Eric Till|True|1|average
+Eric Valette|False|1|bad
+Erik White|False|1|average
+Errol Morris|True|1|average
+Ethan Coen|False|5+|average
+Ethan Maniquis|False|1|average
+Eugene Jarecki|True|1|average
+Evan Glodell|True|1|average
+F. Gary Gray|False|5+|average
+Fabián Bielinsky|True|1|average
+Famke Janssen|True|1|bad
+Farhan Akhtar|False|1|average
+Fatih Akin|True|2-4|good
+Felipe Lacerda|True|1|good
+Fernando Meirelles|False|2-4|average
+Fernando Trueba|True|1|average
+Florent Emilio Siri|False|1|average
+Floria Sigismondi|True|1|average
+Florian Gallenberger|True|1|average
+Florian Henckel von Donnersmarck|False|1|bad
+Fran Rubel Kuzui|False|1|average
+Francis Ford Coppola|False|5+|average
+Francis Glebas|False|1|average
+Francis Lawrence|False|2-4|average
+Francis Veber|True|2-4|average
+Franck Khalfoun|False|1|bad
+Franco Zeffirelli|False|1|average
+Frank Coraci|False|5+|average
+Frank Darabont|False|2-4|average
+Frank E. Flowers|True|1|bad
+Frank Marshall|False|1|bad
+Frank Miller|False|1|average
+Frank Nissen|False|1|average
+Frank Oz|False|5+|average
+Frank Whaley|True|1|average
+Franklin J. Schaffner|False|1|good
+François Ozon|True|2-4|average
+Fred Cavayé|True|1|average
+Fred Savage|False|1|bad
+Fred Schepisi|False|2-4|average
+Fred Wolf|False|2-4|bad
+Frederik Du Chau|False|1|bad
+Fredi M. Murer|True|1|average
+Gabe Torres|True|1|bad
+Gabor Csupo|False|1|average
+Gabriele Muccino|False|2-4|average
+Gabriele Salvatores|True|1|average
+Gail O'Hara|True|1|average
+Galt Niederhoffer|True|1|average
+Gareth Evans|True|1|average
+Garry Marshall|False|5+|bad
+Garth Jennings|True|1|average
+Gary Chapman|False|1|average
+Gary David Goldberg|False|1|average
+Gary Fleder|False|2-4|average
+Gary Hardwick|False|1|average
+Gary McKendry|False|1|average
+Gary Ross|False|2-4|average
+Gary Trousdale|False|1|average
+Gary Winick|False|2-4|average
+Gaspar Noé|True|2-4|average
+Gavin Hood|False|2-4|average
+Genndy Tartakovsky|False|1|average
+Geoffrey Sax|False|1|bad
+Geoffrey Wright|True|1|average
+George Armitage|False|1|average
+George C. Wolfe|False|1|bad
+George Clooney|False|2-4|average
+George Gallo|True|1|average
+George Hickenlooper|False|1|average
+George Lucas|False|1|average
+George Miller|False|2-4|average
+George Nolfi|False|1|average
+George Ratliff|True|1|average
+George Roy Hill|False|1|average
+Gianfranco Rosi|True|1|average
+Gil Junger|False|1|average
+Gil Kenan|False|2-4|average
+Gilles Paquet-Brenner|True|1|average
+Giorgos Lanthimos|True|2-4|average
+Giuseppe Capotondi|True|1|average
+Giuseppe Tornatore|True|2-4|average
+Glenn Ficarra|False|2-4|average
+Glenn Gordon Caron|False|1|average
+Gonzalo López-Gallego|False|1|bad
+Gordon Chan|False|1|bad
+Gore Verbinski|False|5+|average
+Goro Miyazaki|True|1|average
+Grant Heslov|False|1|average
+Greg Berlanti|False|1|bad
+Greg Coolidge|False|1|bad
+Greg Marcks|True|1|bad
+Greg Mclean|False|2-4|average
+Greg Mottola|False|2-4|average
+Greg Pritikin|True|1|average
+Gregg Araki|True|2-4|average
+Gregor Jordan|True|2-4|average
+Gregory Dark|False|1|bad
+Gregory Hoblit|False|5+|average
+Guillaume Canet|True|2-4|average
+Guillermo Arriaga|True|1|average
+Guillermo del Toro|False|2-4|average
+Gus Van Sant|False|5+|average
+Guy Maddin|True|2-4|good
+Guy Ritchie|False|2-4|average
+Géla Babluani|True|1|average
+Hans Canosa|True|1|average
+Hans Weingartner|True|1|average
+Hans-Christian Schmid|True|1|good
+Hany Abu-Assad|True|1|average
+Harald Zwart|False|2-4|bad
+Harmony Korine|False|1|bad
+Harold Ramis|False|5+|average
+Hayao Miyazaki|False|2-4|good
+Hayden Schlossberg|False|1|average
+Hector Babenco|True|1|average
+Heidi Ewing|True|2-4|average
+Heitor Dhalia|False|1|bad
+Helen Hunt|True|1|average
+Henrik Ruben Genz|True|1|average
+Henry Selick|False|1|average
+Hirokazu Koreeda|True|2-4|good
+Hironobu Sakaguchi|False|1|average
+Hiroyuki Okiura|True|1|average
+Hitoshi Matsumoto|True|1|average
+Howard Deutch|False|2-4|bad
+Howard McCain|True|1|average
+Hoyt Yeatman|False|1|average
+Hugh Wilson|False|2-4|average
+Hugo Rodríguez|True|1|average
+Iain Softley|False|2-4|average
+Ian Fitzgibbon|True|1|average
+Ingmar Bergman|True|1|average
+Ira Sachs|True|1|average
+Irwin Winkler|False|2-4|average
+Isabel Coixet|True|2-4|average
+Ivan Reitman|False|5+|average
+J.B. Rogers|False|1|average
+J.C. Chandor|True|1|average
+J.J. Abrams|False|1|average
+J.P. Schaefer|True|1|bad
+Jack Clayton|False|1|average
+Jacob Aaron Estes|True|1|average
+Jacob Rosenberg|True|1|average
+Jacob Tierney|True|1|average
+Jacques Audiard|True|1|average
+Jacques Cluzaud|False|1|average
+Jafar Panahi|True|1|good
+Jake Kasdan|False|1|average
+Jake Scott|True|1|average
+Jalmari Helander|True|1|average
+James Bobin|False|1|average
+James Cameron|False|5+|average
+James Foley|False|2-4|average
+James Frawley|False|1|average
+James Gartner|False|1|average
+James Gray|True|1|average
+James Gunn|False|1|average
+James Isaac|False|1|bad
+James Ivory|True|2-4|good
+James Keach|True|1|bad
+James L. Brooks|False|2-4|average
+James Mangold|False|2-4|average
+James Marsh|True|2-4|good
+James Mather|False|1|average
+James McTeigue|False|2-4|average
+James Ponsoldt|True|1|average
+James Rasin|True|1|average
+James Toback|True|2-4|average
+James Wan|False|2-4|average
+James Watkins|False|2-4|average
+James Wong|False|2-4|bad
+Jamie Blanks|False|1|bad
+Jamie Linden|True|1|average
+Jamie Travis|True|1|average
+Jan de Bont|False|2-4|average
+Jane Campion|True|2-4|good
+Jannicke Systad Jacobsen|True|1|average
+Janus Metz Pedersen|True|1|average
+Jared Hess|False|2-4|average
+Jason Bloom|False|1|bad
+Jason Eisener|True|1|average
+Jason Maurer|True|1|bad
+Jason Moore|False|1|average
+Jason Reitman|False|2-4|average
+Jaume Balagueró|True|1|average
+Jaume Collet-Serra|False|1|average
+Javier Abad|False|1|bad
+Jay Chandrasekhar|False|2-4|average
+Jay Duplass|True|2-4|average
+Jay Levey|False|1|bad
+Jay Roach|False|2-4|average
+Jay Russell|False|1|average
+Je-gyu Kang|True|1|average
+Jean Becker|True|1|average
+Jean-François Richet|False|1|average
+Jean-Jacques Annaud|False|2-4|average
+Jean-Marc Vallée|True|1|average
+Jean-Marie Poiré|False|1|bad
+Jean-Pierre Dardenne|True|1|average
+Jean-Pierre Jeunet|False|2-4|average
+Jeanne Labrune|True|1|average
+Jeannot Szwarc|False|1|bad
+Jeff Broadstreet|True|1|
+Jeff Dupre|True|1|average
+Jeff Garlin|True|1|average
+Jeff Malmberg|True|1|good
+Jeff Nichols|True|1|good
+Jeff Orlowski|False|1|average
+Jeff Prosserman|False|1|average
+Jeff Tremaine|False|1|average
+Jeff Wadlow|False|1|bad
+Jeffrey Fine|True|1|
+Jeffrey Friedman|True|1|average
+Jeffrey Nachmanoff|False|1|average
+Jeffrey W. Byrd|False|1|bad
+Jennifer Flackett|False|1|average
+Jennifer Westfeldt|False|1|average
+Jennifer Yuh|False|1|average
+Jeremy Haft|True|1|bad
+Jerry Rothwell|True|1|average
+Jerry Zucker|False|2-4|average
+Jess Manafort|False|1|bad
+Jesse Dylan|False|2-4|bad
+Jesse Peretz|False|1|average
+Jessica Bendinger|False|1|average
+Jessica Yu|True|1|average
+Jessie Nelson|False|1|bad
+Ji-woon Kim|True|2-4|average
+Jieho Lee|True|1|bad
+Jill Sprecher|True|1|average
+Jim Fall|False|1|average
+Jim Field Smith|True|1|average
+Jim Gillespie|False|1|average
+Jim Henson|False|1|average
+Jim Jarmusch|True|2-4|average
+Jim Loach|True|1|average
+Jim Mickle|True|1|average
+Jim Sharman|False|1|average
+Jim Sheridan|False|2-4|average
+Jimmy Hayward|False|1|bad
+Joachim Lafosse|True|1|average
+Joachim Trier|True|1|average
+Joan Chen|False|1|bad
+Joan Churchill|True|1|average
+Joann Sfar|True|1|average
+Joaquin Perea|False|1|bad
+Joby Harold|False|1|bad
+Jodie Foster|True|1|average
+Jody Hill|False|2-4|average
+Joe Carnahan|False|2-4|average
+Joe Chappelle|False|1|bad
+Joe Cornish|True|1|average
+Joe Dante|False|1|average
+Joe Johnston|False|5+|average
+Joe Nussbaum|False|2-4|average
+Joe Ranft|False|1|average
+Joe Roth|False|2-4|bad
+Joe Wright|False|2-4|average
+Joel Gallen|False|1|bad
+Joel Hopkins|False|1|average
+Joel Schumacher|False|5+|average
+Joel Zwick|False|1|average
+John A. Davis|False|2-4|average
+John August|True|1|average
+John Badham|False|1|average
+John Bonito|False|1|average
+John Bruno|False|1|bad
+John Cameron Mitchell|True|2-4|average
+John Carney|True|1|good
+John Carpenter|False|2-4|average
+John Crowley|True|2-4|average
+John Curran|True|2-4|average
+John Dahl|False|2-4|average
+John Doyle|True|1|
+John Eng|False|1|bad
+John Erick Dowdle|False|1|average
+John Fawcett|True|1|average
+John Frankenheimer|False|1|average
+John Gray|True|1|average
+John Gulager|True|2-4|bad
+John Hamburg|False|2-4|average
+John Hoffman|False|1|average
+John Hughes|False|2-4|average
+John Huston|False|1|bad
+John Krasinski|True|1|average
+John Landis|False|2-4|average
+John Lasseter|False|1|good
+John Lee Hancock|False|2-4|average
+John Madden|False|2-4|average
+John Maybury|False|1|average
+John McNaughton|False|2-4|average
+John McTiernan|False|5+|average
+John Michael McDonagh|True|1|average
+John Milius|False|1|average
+John Moore|False|2-4|average
+John Musker|False|2-4|average
+John Ottman|False|1|bad
+John Pasquin|False|1|average
+John Patrick Shanley|False|1|average
+John Polson|False|1|bad
+John Sanford|False|1|average
+John Sayles|True|1|average
+John Schultz|False|2-4|average
+John Singleton|False|5+|average
+John Stainton|False|1|average
+John Stalberg|True|1|bad
+John Stevenson|False|1|average
+John Stockwell|False|2-4|average
+John Swanbeck|True|1|average
+John Waters|True|2-4|average
+John Wells|True|1|average
+John Whitesell|False|2-4|bad
+John Woo|False|2-4|average
+Johnnie To|True|1|good
+Jon Amiel|False|2-4|average
+Jon Avnet|False|2-4|bad
+Jon Chu|False|1|average
+Jon Favreau|False|2-4|average
+Jon Kasdan|True|1|average
+Jon Poll|False|1|average
+Jon Shenk|True|1|average
+Jon Turteltaub|False|2-4|average
+Jonah Markowitz|True|1|average
+Jonas Elmer|False|1|bad
+Jonas Pate|True|1|average
+Jonathan Caouette|True|1|good
+Jonathan Dayton|False|2-4|average
+Jonathan Demme|False|5+|average
+Jonathan Frakes|False|1|average
+Jonathan Glazer|True|2-4|average
+Jonathan Hensleigh|False|2-4|average
+Jonathan Levine|True|1|average
+Jonathan Liebesman|False|1|bad
+Jonathan Lynn|False|1|bad
+Jonathan Mostow|False|2-4|average
+Joon-ho Bong|True|2-4|good
+Jordan Melamed|True|1|average
+Jordan Scott|True|1|average
+Jorma Taccone|False|1|average
+Josef Rusnak|False|1|bad
+Joseph Cedar|True|1|good
+Joseph Kahn|False|2-4|average
+Joseph Ruben|False|1|average
+Josh Fox|True|1|
+Josh Gordon|False|1|average
+Josh Pais|True|1|
+Josh Radnor|True|2-4|average
+Josh Schwartz|False|1|bad
+Josh Sternfeld|False|1|
+Joshua Marston|True|1|good
+Joshua Seftel|True|1|bad
+Joss Whedon|False|1|average
+José Padilha|True|1|bad
+João Jardim|True|1|average
+Juan Antonio Bayona|False|2-4|average
+Juan Carlos Fresnadillo|False|2-4|average
+Juan José Campanella|True|1|good
+Judd Apatow|False|2-4|average
+Julia Loktev|True|1|average
+Julian Farino|True|1|average
+Julian Jarrold|True|1|average
+Julian Schnabel|True|2-4|average
+Julie Anne Robinson|False|2-4|bad
+Julie Delpy|True|2-4|average
+Julie Taymor|False|1|average
+Jun Falkenstein|False|1|average
+Justin Chadwick|False|1|average
+Justin Lin|False|2-4|average
+Kar Wai Wong|True|2-4|average
+Karan Johar|False|1|average
+Karey Kirkpatrick|False|2-4|average
+Karyn Kusama|False|1|average
+Kathryn Bigelow|True|2-4|average
+Katsuhiro Ôtomo|True|1|average
+Kazuki Akane|True|1|average
+Keenen Ivory Wayans|False|5+|bad
+Keith Bearden|True|1|average
+Keith Fulton|True|1|average
+Kelly Asbury|False|2-4|average
+Kelly Reichardt|True|2-4|good
+Ken Kwapis|False|2-4|bad
+Ken Loach|True|2-4|average
+Kenneth Branagh|False|2-4|average
+Kenneth Lonergan|True|2-4|average
+Kenny Ortega|False|2-4|average
+Kevin Allen|False|1|bad
+Kevin Bray|False|1|average
+Kevin Costner|False|2-4|average
+Kevin Heffernan|True|1|average
+Kevin Lima|False|2-4|average
+Kevin Macdonald|False|5+|average
+Kevin Munroe|True|1|bad
+Kevin Reynolds|False|1|average
+Kevin Rodney Sullivan|False|1|average
+Kevin Smith|False|5+|average
+Kevin Spacey|True|1|average
+Ki-duk Kim|True|1|good
+Kieran Mulroney|True|1|bad
+Kimberly Peirce|True|1|good
+Kinka Usher|False|1|average
+Kirby Dick|True|2-4|average
+Kirk De Micco|False|1|bad
+Kirk Jones|False|2-4|average
+Kirk Wong|False|1|bad
+Kirsten Sheridan|False|1|bad
+Kurt Kuenne|True|1|good
+Kurt Wimmer|False|2-4|bad
+Kyle Newman|True|1|average
+Lance Daly|True|1|average
+Lance Hammer|True|1|good
+Larry Charles|False|2-4|average
+Larry Clark|True|1|average
+Lars von Trier|True|5+|average
+Lasse Hallström|False|2-4|average
+Lauren Greenfield|True|1|average
+Laurence Dunmore|False|1|average
+Laurent Firode|True|1|average
+Laurie Collyer|True|1|average
+Lawrence Guterman|False|2-4|bad
+Lawrence Kasdan|False|5+|average
+Lech Majewski|True|1|average
+Lee Daniels|True|2-4|bad
+Lee Tamahori|False|2-4|average
+Lee Toland Krieger|True|1|average
+Lee Unkrich|False|1|good
+Leila Conners|True|1|average
+Len Wiseman|False|2-4|average
+Lena Dunham|True|1|average
+Leon Gast|True|1|average
+Leos Carax|True|1|good
+Les Mayfield|False|2-4|average
+Leslye Headland|True|1|average
+Lewis Gilbert|True|1|average
+Lexi Alexander|True|1|average
+Liev Schreiber|True|1|average
+Lilian Franck|True|1|average
+Lisa Cholodenko|False|2-4|average
+Lixin Fan|True|1|good
+Lodge Kerrigan|True|1|average
+Lone Scherfig|False|2-4|average
+Lorraine Levy|True|1|average
+Louis Leterrier|False|2-4|average
+Luc Besson|False|5+|average
+Luc Jacquet|False|1|average
+Luca Guadagnino|True|1|average
+Lucas Belvaux|True|1|average
+Lucky McKee|True|1|average
+Lucrecia Martel|True|1|good
+Lucy Walker|True|1|average
+Lucía Puenzo|True|1|average
+Luis Llosa|False|1|bad
+Luis Mandoki|False|2-4|average
+Luis Prieto|False|1|average
+Lukas Moodysson|True|1|good
+Luke Greenfield|False|2-4|average
+Lynn Shelton|True|2-4|average
+Lynne Ramsay|True|2-4|average
+M. Night Shyamalan|False|5+|average
+Mabrouk El Mechri|True|2-4|average
+Madeleine Sackler|True|1|average
+Madhur Bhandarkar|True|1|
+Malcolm D. Lee|False|1|average
+Malcolm Venville|True|1|average
+Malik Bendjelloul|True|1|average
+Mamoru Hosoda|True|1|average
+Mamoru Oshii|True|1|average
+Mandeep Kumar|True|1|
+Marc Forster|False|5+|average
+Marc Lawrence|False|1|average
+Marc Rothemund|True|1|average
+Marc Schölermann|True|1|average
+Marc Webb|False|1|average
+Marco Kreuzpaintner|True|1|average
+Marco Schnabel|False|1|bad
+Marcos Siega|False|1|bad
+Marcus Dunstan|False|1|bad
+Marilyn Agrelo|False|1|bad
+Mario Van Peebles|True|1|average
+Marius A. Markevicius|True|1|average
+Marius Holst|True|1|
+Marjane Satrapi|True|2-4|average
+Mark A.Z. Dippé|False|1|bad
+Mark Dindal|False|2-4|average
+Mark Helfrich|False|1|bad
+Mark Herman|False|1|average
+Mark Levin|True|1|average
+Mark Mylod|False|1|bad
+Mark Pellington|False|2-4|average
+Mark Romanek|False|2-4|average
+Mark Rosman|False|1|bad
+Mark Steven Johnson|False|2-4|bad
+Mark Tonderai|False|1|bad
+Mark Waters|False|5+|average
+Marshall Curry|True|1|average
+Martin Brest|False|5+|average
+Martin Campbell|False|5+|average
+Martin Guigui|False|1|bad
+Martin Koolhoven|True|1|average
+Martin McDonagh|False|2-4|average
+Martin Scorsese|False|5+|average
+Mary Harron|False|2-4|average
+Maryam Keshavarz|True|1|average
+Mateo Gil|True|1|average
+Mathieu Kassovitz|False|1|bad
+Matt Piedmont|False|1|average
+Matt Reeves|False|1|average
+Matthew O'Callaghan|False|1|average
+Matthew Robinson|False|1|average
+Matthew Ryan Hoge|True|1|bad
+Matthew Vaughn|False|2-4|average
+Max Mayer|True|1|average
+Maïwenn Le Besco|True|1|average
+McG|False|2-4|average
+Mel Brooks|False|1|average
+Mel Gibson|False|2-4|average
+Mel Smith|False|1|average
+Mennan Yapo|False|1|bad
+Menno Meyjes|True|1|average
+Mia Hansen-Løve|True|1|average
+Michael A. Nickles|True|1|
+Michael Apted|False|2-4|average
+Michael Bay|False|2-4|average
+Michael Burke|True|1|average
+Michael Caton-Jones|False|2-4|average
+Michael Cimino|False|1|average
+Michael Davis|False|1|average
+Michael Dowse|False|1|average
+Michael Haneke|True|2-4|good
+Michael Hoffman|False|2-4|average
+Michael J. Bassett|False|1|average
+Michael J. Weithorn|True|1|average
+Michael Katleman|False|1|bad
+Michael Lehmann|False|2-4|average
+Michael Lembeck|False|2-4|bad
+Michael Mann|False|5+|average
+Michael Mayer|True|1|average
+Michael McCullers|False|1|average
+Michael Moore|False|2-4|average
+Michael O. Sajbel|False|1|average
+Michael Patrick Jann|False|1|bad
+Michael Patrick King|False|2-4|average
+Michael Petroni|True|1|bad
+Michael Polish|True|1|average
+Michael R. Roskam|True|1|average
+Michael Ritchie|False|1|
+Michael Rymer|False|1|average
+Michael Spierig|False|2-4|average
+Michael Stephenson|True|1|average
+Michael Sucsy|False|1|average
+Michael Winterbottom|True|2-4|average
+Michel Gondry|False|2-4|average
+Michel Hazanavicius|False|2-4|average
+Michel Leclerc|True|1|average
+Michèle Hozer|True|1|average
+Mick Jackson|False|1|average
+Miguel Arteta|False|2-4|average
+Mikael Håfström|False|2-4|average
+Mike Binder|False|1|average
+Mike Birbiglia|True|1|average
+Mike Cahill|True|1|average
+Mike Figgis|False|2-4|average
+Mike Hodges|False|2-4|average
+Mike Judge|False|2-4|average
+Mike Leigh|True|2-4|good
+Mike McCoy|False|1|average
+Mike Mills|True|1|good
+Mike Mitchell|False|2-4|bad
+Mike Newell|False|2-4|average
+Mike Nichols|False|5+|average
+Milos Forman|False|5+|average
+Mimi Leder|False|2-4|average
+Mira Nair|True|2-4|average
+Miranda July|True|2-4|average
+Mitch Glazer|True|1|bad
+Mitchell Lichtenstein|True|1|average
+Mona Achache|True|1|average
+Morgan Spurlock|True|2-4|average
+Morten Tyldum|True|1|average
+Nadine Labaki|True|2-4|average
+Nancy Meyers|False|2-4|average
+Nanni Moretti|True|2-4|average
+Neal Slavin|True|1|average
+Neil Burger|False|1|average
+Neil Jordan|False|2-4|average
+Neil LaBute|False|2-4|average
+Neil Marshall|False|2-4|average
+Neill Blomkamp|False|1|good
+Neten Chokling|True|1|average
+Nia Vardalos|True|1|bad
+Niall Johnson|True|1|average
+Niall MacCormick|False|1|average
+Nicholas Fackler|True|1|average
+Nicholas Hytner|True|1|average
+Nicholas Jarecki|False|1|average
+Nicholas Jasenovec|True|1|average
+Nicholas Stoller|False|2-4|average
+Nicholaus Goossen|False|1|bad
+Nick Cassavetes|False|2-4|average
+Nick Park|False|1|good
+Nick Tomnay|True|1|average
+Nicolas Philibert|True|1|good
+Nicolas Winding Refn|True|2-4|average
+Nicole Holofcener|False|2-4|average
+Nicole Kassell|True|2-4|average
+Niels Arden Oplev|True|1|average
+Nigel Cole|False|2-4|average
+Nikhil Advani|True|1|average
+Niki Caro|False|2-4|average
+Nikolaj Arcel|True|1|average
+Nimród Antal|False|2-4|average
+Noah Baumbach|True|2-4|average
+Noam Murro|False|1|average
+Nora Ephron|False|5+|average
+Nora Twomey|True|1|good
+Norman Jewison|False|2-4|average
+Nuri Bilge Ceylan|True|2-4|good
+Olatunde Osunsanmi|False|1|bad
+Ole Bornedal|True|1|average
+Oliver Blackburn|True|1|average
+Oliver Hirschbiegel|True|2-4|average
+Oliver Stone|False|5+|average
+Olivier Assayas|True|2-4|good
+Olivier Dahan|True|1|average
+Olivier Megaton|False|2-4|average
+Omar Naim|False|1|
+Oren Moverman|True|1|average
+Oren Peli|False|1|average
+P.J. Hogan|False|2-4|average
+Paco Plaza|True|1|average
+Paddy Breathnach|True|1|
+Paddy Considine|True|1|average
+Panna Rittikrai|True|1|bad
+Panos Cosmatos|True|1|average
+Paolo Sorrentino|True|1|average
+Pascal Laugier|False|1|average
+Patricia Foulkrod|True|1|average
+Patricia Riggen|False|1|average
+Patricio Guzmán|True|1|good
+Patrick Gilmore|False|1|average
+Patrick Lussier|False|1|bad
+Patty Jenkins|False|1|average
+Paul Bolger|False|1|bad
+Paul Brickman|False|1|average
+Paul Feig|False|1|average
+Paul Fierlinger|True|1|average
+Paul Greengrass|False|5+|good
+Paul Haggis|False|2-4|average
+Paul Johansson|False|1|bad
+Paul Mazursky|False|1|good
+Paul McGuigan|False|2-4|average
+Paul Michael Glaser|False|1|bad
+Paul Provenza|True|1|average
+Paul Schrader|True|1|average
+Paul Thomas Anderson|False|5+|good
+Paul Verhoeven|False|5+|average
+Paul W.S. Anderson|False|2-4|average
+Paul Weitz|False|2-4|average
+Pawel Pawlikowski|True|1|good
+Pedro Almodóvar|True|5+|average
+Penelope Spheeris|False|2-4|average
+Penny Marshall|False|2-4|average
+Perry Andelin Blake|False|1|bad
+Pete Travis|False|2-4|average
+Peter Berg|False|5+|average
+Peter Billingsley|False|1|bad
+Peter Care|True|1|average
+Peter Cattaneo|False|2-4|average
+Peter Chelsom|False|1|average
+Peter Cornwell|False|1|bad
+Peter Hedges|False|2-4|average
+Peter Hewitt|False|1|bad
+Peter Howitt|False|2-4|average
+Peter Hyams|False|2-4|bad
+Peter Jackson|False|2-4|average
+Peter Nicks|True|1|good
+Peter Rodger|True|1|bad
+Peter Segal|False|2-4|average
+Peter Sollett|False|1|average
+Peter Stebbings|True|1|average
+Peter Webber|False|1|bad
+Peter Weir|False|5+|average
+Peyton Reed|False|1|average
+Phil Alden Robinson|False|2-4|average
+Phil Dorling|True|1|bad
+Phil Joanou|False|1|average
+Phil Morrison|True|1|average
+Phil Traill|False|2-4|bad
+Philip Kaufman|True|1|average
+Philip Ridley|True|1|average
+Philip Seymour Hoffman|True|1|average
+Philippe Claudel|True|1|average
+Phillip J. Bartell|True|1|bad
+Phillip Noyce|False|2-4|average
+Phyllida Lloyd|False|2-4|average
+Pierre Morel|False|2-4|average
+Pieter Jan Brugge|True|1|average
+Pitof|False|1|bad
+Piyush Jha|True|1|
+Prabhu Deva|True|1|
+Prakash Jha|True|1|
+Preston A. Whitmore II|False|1|bad
+Q. Allan Brocka|True|1|bad
+Quentin Dupieux|True|1|average
+Quentin Tarantino|False|5+|average
+R. Balki|True|1|bad
+R.J. Cutler|True|1|average
+Rachel Perkins|True|1|average
+Radu Mihaileanu|True|1|average
+Radu Muntean|True|1|good
+Raja Gosnell|False|5+|bad
+Ralph Bakshi|False|1|bad
+Ramin Bahrani|True|1|good
+Rand Ravich|False|1|bad
+Randal Kleiser|False|1|average
+Randall Miller|True|1|average
+Randall Wallace|False|2-4|average
+Raoul Ruiz|True|1|good
+Rawson Marshall Thurber|False|1|average
+Raymond De Felitta|True|1|average
+Rebecca Miller|True|2-4|average
+Reginald Hudlin|False|1|average
+Renny Harlin|False|5+|bad
+René Féret|True|1|average
+Rian Johnson|True|2-4|average
+Rich Christiano|True|1|bad
+Richard Ayoade|True|1|average
+Richard Curtis|False|1|average
+Richard Donner|False|5+|average
+Richard Eyre|False|2-4|average
+Richard Kelly|True|2-4|average
+Richard Kwietniowski|True|1|average
+Richard LaGravenese|False|2-4|average
+Richard Linklater|True|5+|average
+Richard Loncraine|False|2-4|average
+Richard Press|True|1|average
+Richard Shepard|False|1|average
+Rick Alverson|True|1|average
+Rick Bieber|True|1|
+Rick Friedberg|False|1|bad
+Ridley Scott|False|5+|average
+Rob Bowman|False|2-4|bad
+Rob Cohen|False|2-4|average
+Rob Letterman|False|1|bad
+Rob Marshall|False|2-4|average
+Rob McKittrick|False|1|bad
+Rob Minkoff|False|5+|average
+Rob Reiner|False|5+|average
+Rob Schmidt|False|1|bad
+Rob Stewart|True|1|average
+Rob Zombie|False|2-4|average
+Robert Altman|False|5+|average
+Robert Ben Garant|False|2-4|average
+Robert Benton|False|1|average
+Robert C. Ramirez|True|1|average
+Robert D. Siegel|True|1|average
+Robert De Niro|False|2-4|average
+Robert Greenwald|False|1|bad
+Robert Kane Pappas|True|1|average
+Robert Kenner|True|1|average
+Robert Lorenz|False|1|average
+Robert Luketic|False|2-4|average
+Robert Pulcini|True|2-4|average
+Robert Redford|False|5+|average
+Robert Rodriguez|False|5+|average
+Robert Schwentke|False|2-4|average
+Robert Stevenhagen|False|1|average
+Robert Towne|True|1|average
+Robert Wise|False|1|average
+Robert Zemeckis|False|5+|average
+Roberto Benigni|False|1|average
+Robin Hessman|True|1|good
+Robin Swicord|False|1|average
+Rod Hardy|True|1|average
+Rodman Flender|True|2-4|average
+Rodrigo Cortés|True|1|average
+Rodrigo García|True|2-4|average
+Roger Donaldson|False|5+|average
+Roger Kumble|False|5+|bad
+Roger Michell|False|2-4|average
+Roger Spottiswoode|False|2-4|average
+Rohit Shetty|True|1|
+Roland Emmerich|False|5+|average
+Roland Joffé|False|2-4|bad
+Roman Polanski|False|2-4|average
+Ron Fricke|True|1|average
+Ron Howard|False|5+|average
+Ron Shelton|False|1|average
+Ron Underwood|False|1|average
+Ronny Yu|False|2-4|bad
+Rowan Joffe|True|1|average
+Ruba Nadda|True|1|average
+Ruben Fleischer|False|2-4|average
+Rupert Murray|True|1|average
+Rupert Sanders|False|1|average
+Rupert Wainwright|False|1|bad
+Ry Russo-Young|True|1|average
+Ryan Fleck|True|1|good
+Ryan Little|False|1|bad
+Ryan Murphy|False|2-4|average
+Sacha Gervasi|True|1|average
+Salim Akil|False|1|average
+Sam Levinson|True|1|average
+Sam Mendes|False|5+|average
+Sam Raimi|False|5+|average
+Sam Taylor-Wood|True|1|average
+Sam Weisman|False|1|bad
+Samuel Maoz|True|1|good
+Sanaa Hamri|False|1|average
+Sang-soo Hong|True|1|average
+Sang-soo Im|True|1|average
+Sara Sugarman|False|1|bad
+Sarah Polley|True|2-4|average
+Satoshi Kon|True|1|good
+Saul Dibb|False|1|average
+Scott Cooper|False|1|good
+Scott Derrickson|False|2-4|average
+Scott Frank|False|1|average
+Scott Glosserman|True|1|average
+Scott Hicks|False|2-4|average
+Scott Marshall|True|1|average
+Scott Sanders|True|1|average
+Scott Teems|True|1|average
+Scott Willis|True|1|average
+Sean Anders|False|1|average
+Sean Baker|True|1|average
+Sean Ellis|True|1|average
+Sean McNamara|False|2-4|bad
+Sean Penn|False|2-4|average
+Sebastian Junger|True|1|good
+Sergei Dvortsevoy|True|1|good
+Sergei Loznitsa|True|1|average
+Sergio Arau|True|1|bad
+Seth Gordon|False|2-4|average
+Seth Kearsley|False|1|bad
+Seth MacFarlane|False|1|average
+Shana Feste|False|1|average
+Shane Acker|False|1|average
+Shane Black|True|1|average
+Shane Carruth|True|1|average
+Shane Dax Taylor|True|1|
+Shane Meadows|True|2-4|average
+Sharon Maguire|False|1|average
+Shawn Ku|True|1|average
+Shawn Levy|False|5+|average
+Shekhar Kapur|False|1|average
+Sheree Folkson|True|1|average
+Sherry Horman|True|1|average
+Shimit Amin|True|1|average
+Sidney Lumet|True|2-4|average
+Simon Curtis|True|1|average
+Simon J. Smith|False|1|average
+Simon Wells|False|2-4|average
+Simon West|False|2-4|average
+Simon Wincer|False|1|average
+Sngmoo Lee|False|1|average
+Sofia Coppola|False|2-4|average
+Sophie Barthes|True|1|average
+Spencer Susser|True|1|average
+Spike Jonze|False|2-4|good
+Spike Lee|False|5+|average
+Stanley Kubrick|False|2-4|average
+Stanley Tong|False|1|average
+Stefan Ruzowitzky|True|1|average
+Stefen Fangmeier|False|1|bad
+Stephen Belber|True|1|average
+Stephen Chbosky|False|1|average
+Stephen Chow|False|2-4|average
+Stephen Daldry|False|2-4|average
+Stephen Elliott|True|1|bad
+Stephen Frears|False|5+|average
+Stephen Gaghan|False|1|average
+Stephen Herek|False|1|average
+Stephen Hopkins|False|2-4|average
+Stephen J. Anderson|False|1|average
+Stephen Kessler|False|2-4|average
+Stephen Norrington|False|2-4|bad
+Stephen Sommers|False|2-4|average
+Stephen T. Kay|False|1|bad
+Stevan Mena|True|1|
+Steve 'Spaz' Williams|False|1|average
+Steve Antin|False|1|average
+Steve Beck|False|2-4|bad
+Steve Buscemi|True|1|average
+Steve Carr|False|2-4|average
+Steve Jacobs|True|1|average
+Steve James|True|2-4|average
+Steve McQueen|True|1|average
+Steve Miner|False|1|bad
+Steve Oedekerk|False|1|bad
+Steve Pink|False|2-4|average
+Steve Shill|False|1|bad
+Steve Trenbirth|False|1|bad
+Steven Brill|False|2-4|bad
+Steven C. Miller|True|1|average
+Steven Quale|False|1|average
+Steven R. Monroe|True|1|bad
+Steven Shainberg|True|2-4|average
+Steven Soderbergh|False|5+|average
+Steven Spielberg|False|5+|average
+Steven Zaillian|False|1|average
+Stewart Hendler|False|1|bad
+Stuart Baird|False|1|average
+Stéphane Aubier|True|1|average
+Stéphane Brizé|True|1|good
+Susan Stroman|False|1|average
+Susanne Bier|True|2-4|average
+Sydney Pollack|False|2-4|average
+Sylvain Chomet|True|1|good
+Sylvain White|False|1|average
+Sylvester Stallone|False|1|average
+T. Sean Durkin|True|1|average
+Taika Waititi|True|1|average
+Takao Okawara|False|1|average
+Takashi  Miike|True|2-4|average
+Takashi Shimizu|False|2-4|average
+Takashi Yamazaki|True|1|bad
+Tamara Jenkins|True|1|good
+Tamra Davis|False|2-4|bad
+Tanya Wexler|True|1|average
+Tarsem Singh|False|1|average
+Taylor Hackford|False|5+|average
+Ted Demme|False|2-4|average
+Ted Kotcheff|False|1|average
+Terence Davies|True|1|average
+Terrence Malick|False|2-4|good
+Terry George|False|2-4|average
+Terry Gilliam|False|5+|average
+Terry Zwigoff|False|2-4|good
+The RZA|False|1|average
+Thom Andersen|True|1|good
+Thomas Balmes|False|1|average
+Thomas Bezucha|False|2-4|average
+Thomas Carter|False|1|average
+Thomas McCarthy|True|2-4|average
+Thor Freudenthal|False|2-4|average
+Ti West|True|2-4|average
+Tim Blake Nelson|False|2-4|average
+Tim Burton|False|5+|average
+Tim Fywell|False|1|average
+Tim Hill|False|2-4|bad
+Tim McCanlies|False|1|average
+Tim Robbins|False|1|average
+Tim Roth|False|1|average
+Tim Story|False|2-4|bad
+Timo Vuorensola|False|1|
+Timothy Björklund|False|1|average
+Timur Bekmambetov|False|2-4|average
+Tod Williams|False|1|average
+Todd Field|True|2-4|good
+Todd Graff|False|2-4|average
+Todd Haynes|True|2-4|average
+Todd Lincoln|False|1|bad
+Todd Louiso|True|1|average
+Todd Phillips|False|2-4|average
+Todd Robinson|True|1|average
+Todd Rohal|True|1|bad
+Todd Solondz|True|5+|average
+Todd Stephens|True|2-4|average
+Tom Brady|False|2-4|bad
+Tom Dey|False|2-4|average
+Tom DiCillo|True|1|average
+Tom Ford|True|1|average
+Tom Green|False|1|bad
+Tom Hanks|False|1|average
+Tom Hooper|False|2-4|good
+Tom Putnam|True|1|bad
+Tom Schulman|False|1|bad
+Tom Shadyac|False|5+|average
+Tom Tykwer|False|2-4|average
+Tom Vaughan|False|1|bad
+Tomas Alfredson|False|1|good
+Tommy O'Haver|False|1|average
+Tommy Wirkola|True|1|average
+Tony Bill|False|1|average
+Tony Gilroy|False|2-4|average
+Tony Goldwyn|True|1|average
+Tony Kaye|True|2-4|average
+Tony Scott|False|5+|average
+Travis Fine|True|1|average
+Trent Cooper|False|1|bad
+Trevor Moore|False|1|bad
+Trey Parker|False|2-4|average
+Troy Duffy|True|1|average
+Troy Miller|False|1|bad
+Troy Nixey|False|1|average
+Tyler Perry|False|1|average
+Uli Edel|True|1|average
+Ulu Grosbard|False|1|average
+Uwe Boll|False|5+|bad
+Vadim Perelman|True|1|average
+Ventura Pons|True|1|average
+Vera Farmiga|True|1|average
+Vicky Jenson|False|1|bad
+Victor Salva|False|1|average
+Vijay Krishna Acharya|True|1|
+Vincent D'Onofrio|False|1|bad
+Vincent Gallo|True|2-4|average
+Vincent Ward|False|1|average
+Vincenzo Natali|False|2-4|average
+Wai-keung Lau|True|1|average
+Walt Becker|False|2-4|bad
+Walter Hill|False|2-4|average
+Walter Murch|False|1|average
+Walter Salles|False|2-4|average
+Warren Beatty|False|1|average
+Wayne Wang|False|1|average
+Werner Boote|True|1|average
+Werner Herzog|True|2-4|good
+Wes Anderson|False|5+|average
+Wes Craven|False|5+|average
+Whit Stillman|True|1|average
+Wil Shriner|False|1|average
+Will Gluck|False|1|average
+William Brent Bell|False|1|bad
+William Dear|True|1|average
+William Friedkin|False|2-4|average
+William Malone|False|1|bad
+William Monahan|True|1|average
+Wim Wenders|True|1|good
+Wolfgang Petersen|False|5+|average
+Woody Allen|False|5+|average
+Xavier Beauvois|True|1|good
+Xavier Dolan|True|1|average
+Yael Hersonski|True|1|good
+Yang Zhang|True|1|average
+Yann Samuell|True|1|average
+Yaron Zilberman|True|1|average
+Ye Lou|True|1|average
+Yimou Zhang|True|2-4|good
+Yôjirô Takita|True|1|average
+Zach Braff|False|1|average
+Zack Snyder|False|2-4|average
+Zal Batmanglij|True|1|average
+Zhang Ke Jia|True|2-4|good
+Zoya Akhtar|True|1|average
+Àlex Pastor|True|1|
+Ágnes Hranitzky|True|2-4|good
+Álex de la Iglesia|True|2-4|average
