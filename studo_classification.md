@@ -14,6 +14,6 @@ Studio is classified on three variables
 
  3. Mean  Metascore 
  if 
- 1. <= 40 then Low ('L')
- 2. Between 40 and 70 then Median ('M')
- 3. Greater than 70 then High 'H' 
+  1. <= 40 then Low ('L')
+  2. Between 40 and 70 then Median ('M')
+  3. Greater than 70 then High 'H' 
